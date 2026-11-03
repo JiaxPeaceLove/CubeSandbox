@@ -1,0 +1,21 @@
+CubeMaster/pkg/base/telemetry/telemetry.go
+  s_28b4e458cad66d::t_8d8c4a4825a990 149
+Cubelet/pkg/telemetry/telemetry.go
+  s_28b4e458cad66d::t_99c26c9fe1f10a 100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "546a1f7b9006f7b8838594db60e8a799c06256ba",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
