@@ -1,0 +1,38 @@
+CubeMaster/pkg/base/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_73649770b053c8 13
+CubeMaster/pkg/templatecenter/template_commit.go
+  s_28b4e458cad66d::t_73649770b053c8 19,25-26,46-66,89,229,232-236,256-260,312,314-315,361,380
+CubeMaster/pkg/service/httpservice/cube/template_commit_test.go
+  s_28b4e458cad66d::t_73649770b053c8 20,28,34-38,45,266
+Cubelet/services/cubebox/template_commit_span_test.go
+  s_28b4e458cad66d::t_73649770b053c8 1-135
+Cubelet/services/cubebox/template_ops.go
+  s_28b4e458cad66d::t_b61055be81eba0 271,294
+  s_28b4e458cad66d::t_73649770b053c8 24,30-32,42-69,118,120,123-126,128,141,172,179,195,223,235-236,242-246,255-258,261-264,276,287-290,300,306,315-319,324,334-340,394-402,404,474,477,479,481-482,485-488,493,497,503-516
+CubeMaster/pkg/templatecenter/template_commit_span_test.go
+  s_28b4e458cad66d::t_73649770b053c8 1-544
+CubeMaster/pkg/cubelet/trace_propagation_test.go
+  s_28b4e458cad66d::t_73649770b053c8 1-103
+CubeShim/shim/src/service/update_ext.rs
+  s_28b4e458cad66d::t_73649770b053c8 6
+CubeMaster/pkg/service/httpservice/cube/template_commit.go
+  s_28b4e458cad66d::t_73649770b053c8 13
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_73649770b053c8 36-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "646000bd5f35355af8c10fc2ef0f1082f864e20e",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
