@@ -1,0 +1,21 @@
+CubeMaster/pkg/templatecenter/snapshot_ops.go
+  s_28b4e458cad66d::t_21dff7c21f864f 19,29-30,114,132-143,147-170,175,180,183,195,210,213,215,395,404,969,971,987
+CubeMaster/pkg/service/httpservice/cube/snapshot_test.go
+  s_28b4e458cad66d::t_21dff7c21f864f 15,17,23,27,33-34,134-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "cbdfb3daa22d710f1cac284629152434fcd158c7",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
