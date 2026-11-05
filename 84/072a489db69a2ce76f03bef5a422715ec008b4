@@ -1,0 +1,19 @@
+Cubelet/services/cubebox/rollback.go
+  s_28b4e458cad66d::t_51e33097ab02d2 238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "84072a489db69a2ce76f03bef5a422715ec008b4",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
