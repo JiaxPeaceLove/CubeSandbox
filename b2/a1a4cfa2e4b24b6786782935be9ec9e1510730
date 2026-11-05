@@ -1,5 +1,11 @@
 Cubelet/services/cubebox/rollback.go
   s_28b4e458cad66d::t_7d885cd4ec3663 22,28-29,45-57,101,107,167
+CubeMaster/pkg/templatecenter/snapshot_rollback_span_test.go
+  s_28b4e458cad66d::t_2b3dcc7fb36b55 1-495
+Cubelet/services/cubebox/rollback_span_test.go
+  s_28b4e458cad66d::t_2b3dcc7fb36b55 1-188
+CubeMaster/pkg/templatecenter/snapshot_ops.go
+  s_28b4e458cad66d::t_2b3dcc7fb36b55 31
 ---
 {
   "schema_version": "authorship/3.0.0",
