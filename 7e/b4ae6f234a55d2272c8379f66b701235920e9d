@@ -1,0 +1,26 @@
+deploy/scripts/docker-install-volume-deps.sh
+  h_1776f3061d7600 105-106,109-113,115-135
+CubeTemplateCenter/docker/Dockerfile
+  s_28b4e458cad66d::t_bc85a2954243dc 60-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7eb4ae6f234a55d2272c8379f66b701235920e9d",
+  "prompts": {},
+  "humans": {
+    "h_1776f3061d7600": {
+      "author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  },
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
