@@ -1,0 +1,48 @@
+CubeAPI/src/telemetry.rs
+  s_28b4e458cad66d::t_0b513e168a7be5 23
+  s_28b4e458cad66d::t_e2c8cdca8c2458 71-73,75,82,97-104,216-232
+CubeAPI/Cargo.toml
+  s_28b4e458cad66d::t_15ba1d3b9fe54d 50-51
+CubeMaster/pkg/base/telemetry/telemetry.go
+  s_28b4e458cad66d::t_eb93040c24720c 28-30,140,149-150,204
+CubeMaster/pkg/base/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_ef3adbbbf33b91 78,94-113,142-144
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_9531c8483cb5fb 19,61-62,65,90-97,256-272
+Cubelet/pkg/telemetry/telemetry.go
+  s_28b4e458cad66d::t_f0dfa0182866a9 29-31,91,100-101,160
+Cubelet/pkg/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_033029d3ff1994 149-151,182,198-217
+deploy/one-click/README.md
+  s_28b4e458cad66d::t_6e05b3ea6d9007 188-191,218-220
+deploy/one-click/README_zh.md
+  s_28b4e458cad66d::t_e6289470faa544 175-176,189
+deploy/one-click/env.example
+  s_28b4e458cad66d::t_c854851ce5a13a 451-452,454
+deploy/one-click/install.sh
+  s_28b4e458cad66d::t_16e0761d1130b8 2298
+deploy/one-click/lib/common.sh
+  s_28b4e458cad66d::t_c6b1e00deff1aa 526
+deploy/one-click/tests/test_toggle_inputs.sh
+  s_28b4e458cad66d::t_9e18d4410db53f 45,62,67,220-241,254-255
+docs/guide/tracing.md
+  s_28b4e458cad66d::t_2d170caebf55d2 41,47-48
+docs/zh/guide/tracing.md
+  s_28b4e458cad66d::t_f2c1e839081c42 41,47-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b69c7dd4b0101a77983ce548dc4c2e56792817cf",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}

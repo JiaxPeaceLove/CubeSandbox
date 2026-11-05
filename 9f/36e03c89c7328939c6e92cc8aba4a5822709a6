@@ -1,0 +1,25 @@
+docs/zh/guide/tracing.md
+  s_28b4e458cad66d::t_25252602b2d0ae 1-40,42-95
+  s_28b4e458cad66d::t_6fe28f713e0430 41
+deploy/one-click/tests/test_toggle_inputs.sh
+  s_28b4e458cad66d::t_6fe28f713e0430 7-11,45,49-51,55-58,61,66
+docs/guide/tracing.md
+  s_28b4e458cad66d::t_6fe28f713e0430 41
+  s_28b4e458cad66d::t_25252602b2d0ae 1-40,42-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "9f36e03c89c7328939c6e92cc8aba4a5822709a6",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
