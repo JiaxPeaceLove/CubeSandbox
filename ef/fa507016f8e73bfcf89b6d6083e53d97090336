@@ -1,7 +1,16 @@
 CubeMaster/pkg/templatecenter/snapshot_ops.go
   s_28b4e458cad66d::t_21dff7c21f864f 19,30-31,135-140,142-144,155-156,160-183,188,193,196,208,223,226,228,410,419,1014,1016,1032
+  s_28b4e458cad66d::t_ae55a59bca1f75 141,157-159
+  s_28b4e458cad66d::t_39c4bcf3c72234 116
 CubeMaster/pkg/service/httpservice/cube/snapshot_test.go
   s_28b4e458cad66d::t_21dff7c21f864f 15,17,23,27,35-36,136-143
+CubeAPI/src/telemetry.rs
+  s_28b4e458cad66d::t_ae55a59bca1f75 5,7-12,34-35,37-41
+CubeMaster/pkg/service/httpservice/cube/snapshot.go
+  s_28b4e458cad66d::t_ae55a59bca1f75 19
+CubeMaster/pkg/templatecenter/snapshot_create_span_test.go
+  s_28b4e458cad66d::t_ae55a59bca1f75 1-21,23-400,402-480,482-547,549-669,671-715,717-751,753-784,786-812,814-839,841-859
+  s_28b4e458cad66d::t_0248b15ce18edf 22,401,481,548,670,716,752,785,813,840
 ---
 {
   "schema_version": "authorship/3.0.0",
