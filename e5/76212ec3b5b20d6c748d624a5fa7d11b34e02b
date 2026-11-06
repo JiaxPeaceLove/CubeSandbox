@@ -1,0 +1,25 @@
+CubeMaster/docker/Dockerfile
+  s_3e51c9d7e93a75::t_1b6602e994032b 14,26
+CubeTemplateCenter/docker/Dockerfile
+  s_3e51c9d7e93a75::t_b4239fa6dca218 14
+Cubelet/Dockerfile
+  s_3e51c9d7e93a75::t_fbb2ca2bd045b7 21,69
+deploy/kubernetes/images/build-cube-images.sh
+  s_3e51c9d7e93a75::t_eb1fbdbea7ed8b 47-51,765,786,831
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "e576212ec3b5b20d6c748d624a5fa7d11b34e02b",
+  "prompts": {},
+  "sessions": {
+    "s_3e51c9d7e93a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1afa8-4dce-7ac1-b42e-7b549448c765",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
