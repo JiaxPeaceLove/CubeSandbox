@@ -1,0 +1,28 @@
+CubeMaster/pkg/templatecenter/snapshot_create_span_test.go
+  s_28b4e458cad66d::t_393ac1743160c4 659
+  s_28b4e458cad66d::t_09fb29f188531a 458,525,596
+  s_28b4e458cad66d::t_65a4d191050c09 83
+CubeMaster/pkg/templatecenter/snapshot_ops.go
+  s_28b4e458cad66d::t_d4dc48add48c6e 242-250
+  s_28b4e458cad66d::t_8a94264595eac1 251
+CubeShim/shim/src/sandbox/sb.rs
+  s_28b4e458cad66d::t_899138e505b05f 2281-2282,2289
+.gitignore
+  s_28b4e458cad66d::t_1edd9cc5f85a7b 100-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f2e03839b8b8d05e15f02d2112b3de733c1c83f0",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
