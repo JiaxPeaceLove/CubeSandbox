@@ -1,0 +1,39 @@
+deploy/one-click/README.md
+  s_55517808fdaedf::t_f38d0ead889536 188-190,218-219
+deploy/one-click/README_zh.md
+  s_55517808fdaedf::t_95fb1803b0bc26 175,189
+deploy/one-click/env.example
+  s_55517808fdaedf::t_91932eead6d2b7 419
+deploy/one-click/install.sh
+  s_28b4e458cad66d::t_856df6affabc00 2059
+deploy/one-click/tests/test_toggle_inputs.sh
+  s_28b4e458cad66d::t_4a481db80993cc 45,66,219-229,244
+docs/guide/tracing.md
+  s_28b4e458cad66d::t_2c4181e3a19856 47
+docs/zh/guide/tracing.md
+  s_28b4e458cad66d::t_3eac18d3792074 47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7f334a16348aee154fa5e1ac0f64bf888256ed67",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    },
+    "s_55517808fdaedf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1afda-0d90-71e2-a1d2-8ea9c459b101",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
