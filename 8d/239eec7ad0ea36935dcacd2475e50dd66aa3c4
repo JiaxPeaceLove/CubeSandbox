@@ -1,0 +1,65 @@
+CubeAPI/src/telemetry.rs
+  s_28b4e458cad66d::t_385424c331cf58 23
+  s_28b4e458cad66d::t_0b513e168a7be5 71-73,75,82,97-104,216-232
+CubeMaster/pkg/base/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_ecbef22225fbc7 142-144
+  s_28b4e458cad66d::t_901ae68c719254 78,94-110
+  s_28b4e458cad66d::t_73649770b053c8 111-113
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_385424c331cf58 19
+  s_28b4e458cad66d::t_ad118d43167a17 61-62,65,90-97,256-272
+Cubelet/pkg/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_901ae68c719254 182,198-214
+  s_28b4e458cad66d::t_42586b6db4d278 149
+  s_28b4e458cad66d::t_ecbef22225fbc7 150-151,215-217
+Cubelet/pkg/telemetry/telemetry.go
+  s_28b4e458cad66d::t_73649770b053c8 29,31
+  s_28b4e458cad66d::t_d5e36a74983a67 30,91,100-101
+  s_28b4e458cad66d::t_ecbef22225fbc7 160
+CubeMaster/pkg/base/telemetry/telemetry.go
+  s_28b4e458cad66d::t_d5e36a74983a67 29,140,149-150
+  s_28b4e458cad66d::t_73649770b053c8 28,30
+  s_28b4e458cad66d::t_ecbef22225fbc7 204
+CubeAPI/Cargo.toml
+  s_f08e3579aa3e28::t_785fdf76104da0 50-51
+deploy/one-click/env.example
+  s_f08e3579aa3e28::t_2a7437573eed7a 419-420,422
+deploy/one-click/tests/test_toggle_inputs.sh
+  s_f08e3579aa3e28::t_e66a2790776dc0 45,62,67,220-241,254-255
+deploy/one-click/README.md
+  s_28b4e458cad66d::t_6f8d3f59c1cb75 188-191,218-220
+deploy/one-click/README_zh.md
+  s_28b4e458cad66d::t_087ca6c3d1c072 175-176,189
+deploy/one-click/install.sh
+  s_28b4e458cad66d::t_62fe327fa0527f 2059
+deploy/one-click/lib/common.sh
+  s_28b4e458cad66d::t_54ad4003aab098 519
+docs/guide/tracing.md
+  s_28b4e458cad66d::t_23f9cd7fe2692c 41,47-48
+docs/zh/guide/tracing.md
+  s_28b4e458cad66d::t_066652a5d22aba 41,47-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8d239eec7ad0ea36935dcacd2475e50dd66aa3c4",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_f08e3579aa3e28": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a158cc-cb28-74b2-ad1a-49e77eeee43f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
