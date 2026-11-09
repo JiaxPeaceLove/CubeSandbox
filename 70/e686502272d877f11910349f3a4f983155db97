@@ -1,0 +1,27 @@
+CubeAPI/src/telemetry.rs
+  s_28b4e458cad66d::t_218aa33b3a5b95 1-4,6,8-88,90-110,112-168,170-182,184-185,193-194,199-236,240,244-245,249-252,255-258
+CubeMaster/pkg/base/telemetry/middleware.go
+  s_28b4e458cad66d::t_73649770b053c8 1-16,21-24,26-44
+CubeMaster/pkg/service/httpservice/cube/cubeboxutil.go
+  s_28b4e458cad66d::t_eb5860ce5944be 19-21,25
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_218aa33b3a5b95 80-81
+  s_28b4e458cad66d::t_25df3eb7989ee3 55-58
+  s_28b4e458cad66d::t_73649770b053c8 1-54,59-79,82-380
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "70e686502272d877f11910349f3a4f983155db97",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
