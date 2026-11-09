@@ -1,0 +1,56 @@
+CubeTemplateCenter/go.mod
+  s_c4db8d555d31fc::t_b6c34398c5128a 38,67,110,119-120,122,134
+CubeMaster/pkg/service/httpservice/common/gin_response.go
+  s_c4db8d555d31fc::t_5271e2103bab1e 11,13-15,28-45
+Cubelet/services/cubebox/cube_container_create_test.go
+  s_c4db8d555d31fc::t_704c093fb691d4 1325-1364
+Cubelet/services/cubebox/cube_container_create.go
+  s_c4db8d555d31fc::t_ced4696460a5b4 1454-1456
+  s_c4db8d555d31fc::t_8ca84ff80f308d 1465-1478,1625
+CubeMaster/pkg/service/httpservice/common/gin_response_test.go
+  s_c4db8d555d31fc::t_b78a0624a4c64c 15,17-20,75-118
+CubeAPI/src/cubemaster/mod.rs
+  s_c4db8d555d31fc::t_809e80c57ac08f 2967
+CubeMaster/go.mod
+  s_c4db8d555d31fc::t_420c485e75bea2 39,60-64,173
+CubeTemplateCenter/pkg/build/reporter_trace_test.go
+  s_c4db8d555d31fc::t_19485cfb99fc9a 68,113
+docs/guide/tracing.md
+  s_c4db8d555d31fc::t_4484428705d2b6 60-61
+  s_c4db8d555d31fc::t_ced4696460a5b4 49-50
+docs/zh/guide/tracing.md
+  s_c4db8d555d31fc::t_4484428705d2b6 60-61
+  s_c4db8d555d31fc::t_ced4696460a5b4 49-50
+CubeMaster/go.sum
+  s_55517808fdaedf::t_7575e66e292686 32-33,149-150,340-341,344-345,356-357,430-431
+CubeTemplateCenter/go.sum
+  s_55517808fdaedf::t_9cd7de9e27d9d7 35-36,159-160,335-336,339-340,351-352,444-445
+Cubelet/go.mod
+  s_55517808fdaedf::t_160386dc9dffce 43-46,48-49,157-161,164-167,203-204,215-219
+Cubelet/go.sum
+  s_55517808fdaedf::t_1f2b22475b4e89 281-282,611-612,939-940,943-944,947-948,953-954,959-960,963,968-969,974-975,1019-1020,1079-1080,1158-1159,1194-1195,1220-1221,1334-1335,1360-1361,1387-1388,1461-1462,1564-1565,1589-1590,1616-1617
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "a22d10a531d10950d59bc81854a129550178b7e2",
+  "prompts": {},
+  "sessions": {
+    "s_55517808fdaedf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1afda-0d90-71e2-a1d2-8ea9c459b101",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    },
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
