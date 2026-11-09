@@ -1,0 +1,25 @@
+CubeMaster/pkg/service/httpservice/cube/template_commit_test.go
+  s_28b4e458cad66d::t_73649770b053c8 20,28,34-38,45
+CubeMaster/pkg/templatecenter/template_commit.go
+  s_28b4e458cad66d::t_73649770b053c8 19,25-26,46-66,89,179,187,260,285,341,365,384,396,400,441
+Cubelet/services/cubebox/template_ops.go
+  s_28b4e458cad66d::t_173960d91c5a83 23,30-32,42-69,268,448,450-451,537,574
+CubeMaster/pkg/service/httpservice/cube/template_commit.go
+  s_28b4e458cad66d::t_73649770b053c8 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "58b77bd267b6ec37df0a9149b75ff48e4ababc29",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
