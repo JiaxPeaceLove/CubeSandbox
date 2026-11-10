@@ -1,0 +1,27 @@
+CubeMaster/pkg/service/httpservice/middleware/gin_middleware_telemetry_test.go
+  s_c4db8d555d31fc::t_dcc5cdd2a34622 63-65,70-71
+  s_c4db8d555d31fc::t_1763feab3dd60b 45,48,50-51,55-56,60
+  s_c4db8d555d31fc::t_dfd2076e0d831b 46-47,49,57-59
+  s_c4db8d555d31fc::t_4ae4760e9ad81d 13,15,30-33
+  s_c4db8d555d31fc::t_fd567e0188206a 18,27-29
+  s_c4db8d555d31fc::t_985e5a6bdf8e02 1-3
+  s_c4db8d555d31fc::t_586a731c24cbbb 4-12,14,16-17,19-26,34-44,52-54,61-62,66-69,72-94
+CubeMaster/pkg/service/httpservice/middleware/gin_middleware.go
+  s_c4db8d555d31fc::t_7c5d25438827ad 60-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "4e86669f232d54c06ad7c7c3abe7c0cf0a96553f",
+  "prompts": {},
+  "sessions": {
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
