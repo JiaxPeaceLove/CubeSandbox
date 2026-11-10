@@ -1,0 +1,28 @@
+CubeTemplateCenter/pkg/image/ext4.go
+  s_28b4e458cad66d::t_b5fabf4f5e3420 19-21
+CubeMaster/pkg/templatecenter/distribution.go
+  s_28b4e458cad66d::t_b5fabf4f5e3420 21,27-28
+CubeMaster/pkg/templatecenter/image_job_runner.go
+  h_5f63f9632f98d6 10,18,21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8ccc28aa501e7548703c49e6aa813d606662e1be",
+  "prompts": {},
+  "humans": {
+    "h_5f63f9632f98d6": {
+      "author": "jiaxu <18910286396@163.com>"
+    }
+  },
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Cubelet/services/cubebox/rollback.go
+  s_c4db8d555d31fc::t_86c890bfccfd94 10,180-184,211-215,220
+deploy/one-click/tests/test_toggle_inputs.sh
+  s_c4db8d555d31fc::t_a99e8e6ce29371 313-314
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b1c87c63d8e040cce28ee1bd00f47f902efa2b0d",
+  "prompts": {},
+  "sessions": {
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}

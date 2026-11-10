@@ -1,0 +1,61 @@
+CubeMaster/pkg/templatecenter/snapshot_create_span_test.go
+  s_28b4e458cad66d::t_9ce92cbb0bf1dc 83,458,525,596,659
+CubeAPI/Cargo.toml
+  s_28b4e458cad66d::t_8f7bd978c6b7fa 50-51
+deploy/one-click/README.md
+  s_28b4e458cad66d::t_ca5b7fc4ec608e 188-191,218-220
+CubeMaster/pkg/base/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_fbeaae4f45c184 78,94-113,142-144
+docs/zh/guide/tracing.md
+  s_28b4e458cad66d::t_26d90fcba019c0 41,47-48
+deploy/one-click/lib/common.sh
+  s_28b4e458cad66d::t_899cd600f720cd 529
+deploy/one-click/README_zh.md
+  s_28b4e458cad66d::t_b2de15cdf5c35d 175-176,189
+Cubelet/services/cubebox/rollback.go
+  s_28b4e458cad66d::t_f83d5b597f984d 236
+Cubelet/pkg/telemetry/telemetry.go
+  s_28b4e458cad66d::t_488f938cd6f4fa 29-31,91,100-101,160
+deploy/one-click/env.example
+  s_28b4e458cad66d::t_49e16b52812c84 503-504,506
+CubeMaster/pkg/base/telemetry/telemetry.go
+  s_28b4e458cad66d::t_d730ba61d63dc0 28-30,140,149-150,204
+docs/guide/tracing.md
+  s_28b4e458cad66d::t_2e9cba6543333c 41,47-48
+deploy/one-click/install.sh
+  s_28b4e458cad66d::t_b8bb9ae8724124 2329
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_f32e764b38d67a 19,61-62,65,90-97,256-272
+CubeShim/shim/src/sandbox/sb.rs
+  s_28b4e458cad66d::t_4fdd2e10297756 2281-2282,2289
+.gitignore
+  s_28b4e458cad66d::t_8827eb3b4a204e 102-107
+Cubelet/pkg/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_bbabd8479e1d33 149-151,182,198-217
+CubeMaster/pkg/templatecenter/snapshot_ops.go
+  s_28b4e458cad66d::t_f4bafb29e15db6 151,153,242-251
+CubeAPI/src/telemetry.rs
+  s_28b4e458cad66d::t_4ad1a0570cafc1 23,71-73,75,82,97-104,216-232
+deploy/one-click/tests/test_toggle_inputs.sh
+  s_28b4e458cad66d::t_d80898121a69fd 71,383-404,421-422
+CubeMaster/pkg/templatecenter/distribution_span_test.go
+  s_28b4e458cad66d::t_d8a0d5341e927a 251,308
+CubeMaster/pkg/templatecenter/replica_span_test.go
+  s_28b4e458cad66d::t_2d5213ff92e8bb 117-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "899bba75dff7878bda7ccf92d124024ed148c496",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": null
+    }
+  }
+}

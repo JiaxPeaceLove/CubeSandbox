@@ -1,0 +1,25 @@
+Cubelet/services/cubebox/rollback.go
+  s_28b4e458cad66d::t_7d885cd4ec3663 21,26-27,43-55,99,105,165
+CubeMaster/pkg/templatecenter/snapshot_rollback_span_test.go
+  s_28b4e458cad66d::t_2b3dcc7fb36b55 1-495
+Cubelet/services/cubebox/rollback_span_test.go
+  s_28b4e458cad66d::t_2b3dcc7fb36b55 1-188
+CubeMaster/pkg/templatecenter/snapshot_ops.go
+  s_28b4e458cad66d::t_2b3dcc7fb36b55 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "d17bd63df993fd69a518b5fe6afbb2009eb64b67",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
