@@ -2,12 +2,19 @@ CubeTemplateCenter/pkg/image/ext4.go
   s_28b4e458cad66d::t_b5fabf4f5e3420 19-21
 CubeMaster/pkg/templatecenter/distribution.go
   s_28b4e458cad66d::t_b5fabf4f5e3420 21,27-28
+CubeMaster/pkg/templatecenter/image_job_runner.go
+  h_5f63f9632f98d6 10,18,21
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.14",
   "base_commit_sha": "597042cc5176fe17e5bcca968bff29d62a028c85",
   "prompts": {},
+  "humans": {
+    "h_5f63f9632f98d6": {
+      "author": "jiaxu <18910286396@163.com>"
+    }
+  },
   "sessions": {
     "s_28b4e458cad66d": {
       "agent_id": {
