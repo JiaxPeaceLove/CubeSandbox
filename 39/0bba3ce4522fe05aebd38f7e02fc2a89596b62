@@ -1,0 +1,50 @@
+CubeMaster/pkg/base/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_b70b64d7393ccb 65-84
+Cubelet/pkg/telemetry/telemetry.go
+  s_28b4e458cad66d::t_6b6ace1a183ea9 15,29-55,142,155-157,171,226
+  s_28b4e458cad66d::t_bfa4b7d5d58b97 220
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_4552af670509d0 32-41,179,347
+  s_28b4e458cad66d::t_b8b0030b8d2060 11
+  s_28b4e458cad66d::t_0ec82ae152b1e9 13,18,29-31
+  s_28b4e458cad66d::t_0271c850026e0a 176-178
+  s_28b4e458cad66d::t_384a8aabf590ba 344-346
+  s_28b4e458cad66d::t_6935561216ca92 348
+  s_55517808fdaedf::t_2ebcd64b6d80fa 91-94,161,172-175,183,329-343
+Cubelet/pkg/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_98526396ff709c 16
+  s_28b4e458cad66d::t_b70b64d7393ccb 66-84
+CubeMaster/pkg/base/telemetry/telemetry.go
+  s_28b4e458cad66d::t_6b6ace1a183ea9 16,28-55,192,205-207,270-271,277,281-282,287
+CubeAPI/src/telemetry.rs
+  s_28b4e458cad66d::t_b8b0030b8d2060 16
+  s_28b4e458cad66d::t_671e703821fd73 14,22-33,300-301
+  s_28b4e458cad66d::t_4552af670509d0 34-43,302
+  s_28b4e458cad66d::t_8b1aec80a3e0d1 297-299
+  s_28b4e458cad66d::t_5a146cb6d73458 303
+  s_55517808fdaedf::t_c4fd8af447da15 107-110,167,184,209,226,228,235,280-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "390bba3ce4522fe05aebd38f7e02fc2a89596b62",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    },
+    "s_55517808fdaedf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1afda-0d90-71e2-a1d2-8ea9c459b101",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
