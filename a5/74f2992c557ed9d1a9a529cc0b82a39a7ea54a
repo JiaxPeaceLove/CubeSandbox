@@ -1,0 +1,44 @@
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_0ec82ae152b1e9 164,169,175,179,187,198,208,210,216,235,242,324,329-330,352-353,422,587,620,636,673,693
+  s_28b4e458cad66d::t_8c40774c047525 259-288,573
+  s_28b4e458cad66d::t_304947fe56a684 7-9,12,21-29,34-42,72,159-163,165-168,170-174,176-178,180-186,188-197,199-207,209,211-215,217-234,236-241,243-258,289-323,325-328,331,347-351,354,363-365,390-393,399-401,405-421,423,566-572,574,577-586,588-619,621-635,637-672,674-692,694-707
+agent/src/tracer.rs
+  s_28b4e458cad66d::t_0507f78abc5e9b 7-9
+  s_28b4e458cad66d::t_0fa4405fd2fc93 146,150,152,165,167,169-182
+  s_28b4e458cad66d::t_cf0b2863ce5b9d 12-16,31-34,55-58,78-88,90-93,95-97,106-122,183
+  s_28b4e458cad66d::t_b467dab8902c9a 10-11
+  s_28b4e458cad66d::t_24adb5272a3935 89
+  s_28b4e458cad66d::t_794a5e6517a6fe 94
+  s_28b4e458cad66d::t_a41f5505077d26 123-125
+  s_28b4e458cad66d::t_8267c68f1dc567 143-145
+  s_28b4e458cad66d::t_56d445fc2fd121 147-149
+  s_28b4e458cad66d::t_0c83dad4c5a268 151
+  s_28b4e458cad66d::t_016815596d3c86 153-155,162-164
+  s_28b4e458cad66d::t_762bf5f56dc971 166
+  s_28b4e458cad66d::t_8f7b87ffab275a 168
+  s_28b4e458cad66d::t_e0d0c5336213c3 126,129-142,156-161
+CubeShim/shim/src/sandbox/sb.rs
+  s_28b4e458cad66d::t_77455c79373656 102,144,514-517,549,753-757,795-800,892-896,1236,1239
+CubeShim/shim/src/service/task_srv.rs
+  s_28b4e458cad66d::t_4d815c68ffea43 397-400,474-480
+docs/guide/tracing.md
+  s_28b4e458cad66d::t_84307441de7d83 42,59-70
+docs/zh/guide/tracing.md
+  s_28b4e458cad66d::t_9863bbffff53cc 42,59-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "a574f2992c557ed9d1a9a529cc0b82a39a7ea54a",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
