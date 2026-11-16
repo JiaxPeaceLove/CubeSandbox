@@ -1,7 +1,35 @@
+CubeMaster/pkg/service/httpservice/cube/update.go
+  s_c4db8d555d31fc::t_bed96bfd2ad9b9 13
+Cubelet/services/cubebox/pause_span_test.go
+  s_c4db8d555d31fc::t_bed96bfd2ad9b9 1-83
+CubeMaster/pkg/service/sandbox/sandbox_update_trace_test.go
+  s_c4db8d555d31fc::t_bed96bfd2ad9b9 1-357
+CubeAPI/src/telemetry.rs
+  s_c4db8d555d31fc::t_bed96bfd2ad9b9 38-45
+Cubelet/services/cubebox/pause_cow.go
+  s_c4db8d555d31fc::t_bed96bfd2ad9b9 24,31-32
+CubeMaster/pkg/service/httpservice/cube/update_span_test.go
+  s_c4db8d555d31fc::t_bed96bfd2ad9b9 1-150
+CubeMaster/pkg/service/sandbox/sandbox_resume_pause.go
+  s_c4db8d555d31fc::t_bed96bfd2ad9b9 18,32
+Cubelet/services/cubebox/update.go
+  s_c4db8d555d31fc::t_bed96bfd2ad9b9 26
+CubeMaster/pkg/service/sandbox/sandbox_update.go
+  s_c4db8d555d31fc::t_bed96bfd2ad9b9 14,23-24,27-80,85,87,109
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.14",
   "base_commit_sha": "e5889e621027f23dfc7bbedfbc35205fb467208a",
-  "prompts": {}
+  "prompts": {},
+  "sessions": {
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
 }
