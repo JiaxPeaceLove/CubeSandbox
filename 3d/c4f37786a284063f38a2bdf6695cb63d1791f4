@@ -1,0 +1,19 @@
+CubeMaster/pkg/templatecenter/store_test.go
+  s_c4db8d555d31fc::t_f733c4bc3c8188 109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "3dc4f37786a284063f38a2bdf6695cb63d1791f4",
+  "prompts": {},
+  "sessions": {
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
