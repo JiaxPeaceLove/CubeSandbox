@@ -1,6 +1,7 @@
 CubeMaster/pkg/templatecenter/snapshot_ops.go
   s_28b4e458cad66d::t_21dff7c21f864f 20,31-32,155-160,162-164,175-176,180-203,208,213,216,228,243,246,248,432,441,1070,1072,1088
   s_28b4e458cad66d::t_ae55a59bca1f75 161,177-179
+  s_28b4e458cad66d::t_c9a483daa9f7ce 123
 CubeMaster/pkg/service/httpservice/cube/snapshot_test.go
   s_28b4e458cad66d::t_21dff7c21f864f 15,17,23,27,35-36,136-143
 CubeAPI/src/telemetry.rs
