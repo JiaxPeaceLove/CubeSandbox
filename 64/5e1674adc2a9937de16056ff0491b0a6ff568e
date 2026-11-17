@@ -5,6 +5,37 @@ CubeMaster/pkg/templatecenter/distribution.go
 CubeMaster/pkg/templatecenter/image_job_runner.go
   h_5f63f9632f98d6 10,18,21
   s_c4db8d555d31fc::t_42b22dffa0eabb 22
+Cubelet/services/cubebox/appsnapshot_span_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 1-122
+CubeAPI/src/telemetry.rs
+  s_28b4e458cad66d::t_10861fc78ee11d 27-31
+CubeTemplateCenter/pkg/build/build_publish_span_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 1-25,27-63,66-72,75-84,87-92
+  s_28b4e458cad66d::t_f5820c59ba4ebf 26,64-65,73-74,85-86
+CubeMaster/pkg/templatecenter/replica_span_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 1-208
+CubeTemplateCenter/pkg/build/executor_trace_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 1-116
+CubeTemplateCenter/pkg/build/reporter_trace_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 1-191
+CubeTemplateCenter/pkg/build/reporter.go
+  s_28b4e458cad66d::t_10861fc78ee11d 20,22-23
+CubeMaster/pkg/service/httpservice/cube/template_from_image_remote.go
+  s_28b4e458cad66d::t_10861fc78ee11d 17,21-22
+CubeMaster/pkg/templatecenter/distribution_span_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 1-326
+CubeMaster/pkg/service/httpservice/cube/template_from_image_remote_span_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 1-200
+CubeTemplateCenter/pkg/build/build_cleanup_span_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 1-92
+CubeMaster/pkg/tcclient/client_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 14-18,21-25
+CubeTemplateCenter/pkg/build/build.go
+  s_28b4e458cad66d::t_10861fc78ee11d 23,33-34,43-44
+CubeMaster/pkg/service/httpservice/cube/template_job_callback_span_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 1-112
+CubeTemplateCenter/pkg/build/build_lock_span_test.go
+  s_28b4e458cad66d::t_10861fc78ee11d 1-166
 ---
 {
   "schema_version": "authorship/3.0.0",
