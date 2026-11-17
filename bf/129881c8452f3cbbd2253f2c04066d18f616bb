@@ -1,0 +1,59 @@
+CubeMaster/pkg/templatecenter/image_job_runner.go
+  s_c4db8d555d31fc::t_a50c914cf2ca4f 223
+CubeMaster/pkg/templatecenter/snapshot_create_span_test.go
+  s_28b4e458cad66d::t_c8149e31a194dd 42-43
+  s_28b4e458cad66d::t_55b7cf10a522f5 70,86,130-157,432,489,509-515,526-528,566,637
+Cubelet/go.mod
+  s_c4db8d555d31fc::t_5e84a1471b99df 158-162,217
+  s_c4db8d555d31fc::t_8232bcd125d97e 216,218
+  s_c4db8d555d31fc::t_891903aa95212a 43-46,48-49,165-168,204-205
+  s_c4db8d555d31fc::t_931b008298c721 219
+Cubelet/go.sum
+  s_c4db8d555d31fc::t_bb99691af4127d 607-608,937-940,957-958
+Cubelet/services/cubebox/cube_container_create.go
+  s_c4db8d555d31fc::t_b5943a6246b7a3 1601
+CubeMaster/pkg/templatecenter/store.go
+  s_c4db8d555d31fc::t_ac51ea2262711b 945,954
+CubeAPI/src/telemetry.rs
+  s_c4db8d555d31fc::t_0a4776b6cbda25 33-34,47-48,50,52,59,177,185
+  s_c4db8d555d31fc::t_b4689f9a46caf9 130-137,198-199
+  s_c4db8d555d31fc::t_fa4903e767c9a9 258-262,284,291-292,294,300,307,323-335,340,347,388-393,418-423,427,434,454,466,473
+  s_c4db8d555d31fc::t_45188863428491 478,481-484,486-489,500-507
+  s_c4db8d555d31fc::t_ac635a8c40ee18 490-498
+  s_c4db8d555d31fc::t_ffd92e73256d39 257,293
+  s_c4db8d555d31fc::t_33b83b274d13ce 479-480,485,499
+CubeMaster/pkg/templatecenter/replica_span_test.go
+  s_c4db8d555d31fc::t_4f7eb65c959bb9 12,164-211
+Cubelet/services/cubebox/pause_cow.go
+  s_c4db8d555d31fc::t_6b41a12f6bf047 416-417,445,458,469
+CubeMaster/pkg/service/httpservice/cube/snapshot_test.go
+  s_28b4e458cad66d::t_3798f57b2f734b 221
+CubeAPI/src/routes.rs
+  s_28b4e458cad66d::t_b57aed286e95c2 100
+CubeMaster/pkg/templatecenter/snapshot_ops.go
+  s_28b4e458cad66d::t_6b08f3dada423d 162,231,488,490,535,537,539-540,1660
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "bf129881c8452f3cbbd2253f2c04066d18f616bb",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": null
+    },
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
