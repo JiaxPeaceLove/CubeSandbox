@@ -1,0 +1,19 @@
+CubeShim/shim/src/sandbox/sb.rs
+  s_f777c104379d06::t_3146cc014956cd 885-889
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7d33e30013d6e13e6aafe46e15200703301a3037",
+  "prompts": {},
+  "sessions": {
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
