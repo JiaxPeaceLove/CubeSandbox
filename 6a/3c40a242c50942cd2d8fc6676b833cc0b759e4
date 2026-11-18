@@ -1,0 +1,32 @@
+CubeMaster/pkg/templatecenter/snapshot_create_span_test.go
+  s_28b4e458cad66d::t_c8149e31a194dd 44-45,237
+  s_28b4e458cad66d::t_18e9b258dc43f9 234-236
+  s_28b4e458cad66d::t_cddd9bde49ff79 238-239
+  s_f777c104379d06::t_a89676ca31ff3e 88-96,219-229,231,233,241-256
+CubeMaster/pkg/service/httpservice/cube/sandbox_create_test.go
+  s_f777c104379d06::t_0c7beda53dc64a 17,180-230
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "6a3c40a242c50942cd2d8fc6676b833cc0b759e4",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": null
+    },
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
