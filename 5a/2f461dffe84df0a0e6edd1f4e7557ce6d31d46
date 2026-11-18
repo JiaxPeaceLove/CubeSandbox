@@ -1,0 +1,91 @@
+docs/guide/tracing.md
+  s_2fd9879419f931::t_297379067ce2e5 25-27,36,53-55,64-124,144,149-151,153
+CubeMaster/pkg/service/sandbox/envd_sidecar.go
+  s_f777c104379d06::t_38c1d2e7be58f8 10-11,22-34,48-51,61-110
+CubeMaster/pkg/service/sandbox/envd_sidecar_test.go
+  s_f777c104379d06::t_826d07ce647c97 78-227
+CubeProxy/Makefile
+  s_f777c104379d06::t_87c68c7eb07163 50,57,59
+CubeProxy/lua/init_worker_phase.lua
+  s_f777c104379d06::t_4aadc3ec5a0fc5 30-45
+CubeProxy/lua/log_phase.lua
+  s_f777c104379d06::t_9520f3cf5d597b 13-19,66-70
+CubeProxy/lua/path_rewrite_phase.lua
+  s_f777c104379d06::t_a0ccc422f5a266 11-15,23,36-40,54-55
+CubeProxy/lua/rewrite_phase.lua
+  s_f777c104379d06::t_fc3e12c64a5c49 5-11,35,43-48,55-56
+CubeProxy/lua/sandbox_backend.lua
+  s_f777c104379d06::t_fe3269ceca0d7d 11,33-34,39,47,155,208,211-214,219,225,263,266-268,273,284-288
+CubeProxy/lua/sandbox_state.lua
+  s_f777c104379d06::t_dd650f7e34fe94 57,64,116-119
+CubeProxy/lua/trace.lua
+  s_f777c104379d06::t_ca85227812eb79 1-697
+CubeProxy/lua/utils.lua
+  s_f777c104379d06::t_5a7bd505d41189 11-14,60,63-66,68-72,96-101,104-105,108-109,112-113,116-117
+CubeProxy/nginx.conf
+  s_f777c104379d06::t_8ecf3c5c33d9ac 26-37
+CubeProxy/tests/trace_test.lua
+  s_f777c104379d06::t_07efa276e243e4 1-661
+deploy/kubernetes/chart/README.md
+  s_f777c104379d06::t_0d5542e41aaea2 643-652
+deploy/kubernetes/chart/templates/proxy.yaml
+  s_f777c104379d06::t_d368fa9477fe71 249-265
+deploy/kubernetes/chart/values.yaml
+  s_08e7a6959bd21a::t_081bae72607a76 1087-1100
+deploy/one-click/README.md
+  s_f777c104379d06::t_682e01b42c0d7e 218-246,248-249
+deploy/one-click/README_zh.md
+  s_f777c104379d06::t_a7f125e295be2b 189-207
+deploy/one-click/cubeproxy/docker-compose.yaml.template
+  s_f777c104379d06::t_eaf7f520a60b1e 27-33
+deploy/one-click/env.example
+  s_f777c104379d06::t_f52d32b252e307 421-438
+deploy/one-click/install.sh
+  s_f777c104379d06::t_5cff5d5e6d1221 2060-2067
+deploy/one-click/lib/common.sh
+  s_f777c104379d06::t_244167c7ecb097 519-522
+deploy/one-click/scripts/one-click/up-cube-proxy.sh
+  s_f777c104379d06::t_e53372788d27ad 129-141,260-263
+docs/guide/bare-metal-deploy.md
+  s_f777c104379d06::t_bced6bc823429a 100-106
+docs/guide/kubernetes/install.md
+  s_f777c104379d06::t_cfe354710c40f0 168,412-468
+docs/zh/guide/bare-metal-deploy.md
+  s_f777c104379d06::t_46c3c87d6ec4f7 96-99
+docs/zh/guide/kubernetes/install.md
+  s_f777c104379d06::t_e054c195993561 166,393-433
+docs/zh/guide/tracing.md
+  s_f777c104379d06::t_73c4b6172d2956 25-27,36,53-55,64-124,144,149-151,153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "5a2f461dffe84df0a0e6edd1f4e7557ce6d31d46",
+  "prompts": {},
+  "sessions": {
+    "s_08e7a6959bd21a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b02a-141f-7133-aa63-a2072dd055eb",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    },
+    "s_2fd9879419f931": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17ae5-116b-7d41-85a4-d00689ee8135",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    },
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
