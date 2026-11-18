@@ -1,0 +1,69 @@
+CubeMaster/pkg/templatecenter/snapshot_ops.go
+  s_28b4e458cad66d::t_21dff7c21f864f 153-155
+  s_28b4e458cad66d::t_f4bafb29e15db6 156-158,160-161,163-165
+CubeShim/shim/src/sandbox/sb.rs
+  s_28b4e458cad66d::t_4fdd2e10297756 2219
+.gitignore
+  s_28b4e458cad66d::t_8827eb3b4a204e 102
+deploy/one-click/tests/test_toggle_inputs.sh
+  s_28b4e458cad66d::t_d80898121a69fd 368-369,383-384
+  s_c4db8d555d31fc::t_a99e8e6ce29371 303-304
+CubeTemplateCenter/go.mod
+  s_c4db8d555d31fc::t_b6c34398c5128a 121
+Cubelet/services/cubebox/rollback.go
+  s_c4db8d555d31fc::t_86c890bfccfd94 129-132,160-163
+Cubelet/go.mod
+  s_c4db8d555d31fc::t_891903aa95212a 43-46,48-49,163-166,202-203
+  s_c4db8d555d31fc::t_5e84a1471b99df 159
+Cubelet/services/cubebox/cube_container_create.go
+  s_c4db8d555d31fc::t_b5943a6246b7a3 1593
+CubeMaster/pkg/templatecenter/image_job_runner.go
+  s_c4db8d555d31fc::t_a50c914cf2ca4f 202
+CubeAPI/src/routes.rs
+  s_0467185dbd392c::t_0468386af327a5 97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8635658d02a6b5417de65ac0c78525df670ad502",
+  "prompts": {},
+  "humans": {
+    "h_5f63f9632f98d6": {
+      "author": "jiaxu <18910286396@163.com>"
+    }
+  },
+  "sessions": {
+    "s_0467185dbd392c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1daa9-f70d-7762-8aa4-af84e6786e12",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    },
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_55517808fdaedf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1afda-0d90-71e2-a1d2-8ea9c459b101",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    },
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
