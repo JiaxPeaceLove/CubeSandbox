@@ -1,0 +1,259 @@
+.gitignore
+  s_28b4e458cad66d::t_f01d8ce3c22590 108-113
+CubeAPI/Cargo.lock
+  s_28b4e458cad66d::t_b6624d01ce5f98 536-539,622-627,860-878,1015,1044-1056,1262-1270,1498-1573,1783-1805,2011,2013,2540-2550,2585-2610,2640,2642,2645
+CubeAPI/Cargo.toml
+  s_28b4e458cad66d::t_5989816bb820b2 48-57,100-101
+CubeMaster/cmd/cubemaster/app/main.go
+  s_28b4e458cad66d::t_6c31735714c235 25,76-86
+CubeMaster/pkg/base/telemetry/telemetry.go
+  s_28b4e458cad66d::t_080e4302164e36 1-253
+CubeMaster/pkg/cubelet/actions.go
+  s_28b4e458cad66d::t_42706cc9d225ca 16,57,73,88,99,192-193,197,239-241,243
+CubeMaster/pkg/cubelet/trace_propagation_test.go
+  s_28b4e458cad66d::t_c6ba0d34e843f2 1-103
+CubeMaster/pkg/server/server.go
+  s_28b4e458cad66d::t_af3259c7f8e7da 23,116
+CubeMaster/pkg/service/httpservice/cube/cubeboxutil.go
+  s_28b4e458cad66d::t_7b693384836a46 19-21,25,414-418,481,490-492,494,500-502,504,510,512-519,534-535,538
+CubeMaster/pkg/service/httpservice/cube/sandbox_create.go
+  s_28b4e458cad66d::t_8058085fa62ab1 13-15,18,29-44,89-101,128-131,160,178-181,187-191
+CubeMaster/pkg/service/httpservice/cube/snapshot.go
+  s_28b4e458cad66d::t_c89dde2e54fb57 19,29-31,173-182,406-413,422-424,441,450,464-467,478,490-491,517,558-564,580,585,653-656
+CubeMaster/pkg/service/httpservice/cube/snapshot_test.go
+  s_28b4e458cad66d::t_ed58fd7ce0f2a7 15,17,23,27,35-36,136-246,390-394,397-398,406-422,535-719
+CubeMaster/pkg/service/httpservice/cube/template_commit.go
+  s_28b4e458cad66d::t_d4dc057acbb625 13,21-23,63-71,99,134,150,171,185
+CubeMaster/pkg/service/httpservice/cube/template_commit_test.go
+  s_28b4e458cad66d::t_e711794dbe107b 20,28,34-38,45,230-284
+CubeMaster/pkg/service/httpservice/cube/template_from_image.go
+  s_28b4e458cad66d::t_cc85df5ee47aa6 21,28-29,100-103,114,138-146,154
+CubeMaster/pkg/service/httpservice/cube/template_from_image_remote.go
+  s_28b4e458cad66d::t_eac78a18d93722 17,21-22,59-65,67,72,74-75,79,83-84,93-98,100-102,104,147-148,158-160,162-172,191-192,205
+CubeMaster/pkg/service/httpservice/cube/template_from_image_remote_span_test.go
+  s_28b4e458cad66d::t_91280ffb85be8c 1-200
+CubeMaster/pkg/service/httpservice/cube/template_from_image_remote_test.go
+  s_28b4e458cad66d::t_d9fea15870ac21 14,144
+CubeMaster/pkg/service/httpservice/cube/template_job_callback.go
+  s_28b4e458cad66d::t_f7e5ec53bc4481 21,23-24,62,158,160,173-182,190,232,240,255
+CubeMaster/pkg/service/httpservice/cube/template_job_callback_span_test.go
+  s_28b4e458cad66d::t_72697eb9ce0abf 1-112
+CubeMaster/pkg/service/httpservice/cube/update.go
+  s_28b4e458cad66d::t_c0517aaf26e5ba 13,21-23,35-42,47,55,69-71
+CubeMaster/pkg/service/httpservice/cube/update_span_test.go
+  s_28b4e458cad66d::t_7fb1ce5e1e620f 1-150
+CubeMaster/pkg/service/sandbox/queue_span_test.go
+  s_28b4e458cad66d::t_2900f71863dc1a 1-90
+CubeMaster/pkg/service/sandbox/sandbox_resume_pause.go
+  s_28b4e458cad66d::t_052196f23b709a 18,33,104-120,160-162,489-490,501,507-521,547-549
+CubeMaster/pkg/service/sandbox/sandbox_run.go
+  s_28b4e458cad66d::t_3d6d760a317934 22-23,31,107-116,205-208,234,426-430,432,434,437,482-485,492-493,624-628,651-652,654
+CubeMaster/pkg/service/sandbox/sandbox_update.go
+  s_28b4e458cad66d::t_87278400a659f4 14,24-25,28-89,97-110,180
+CubeMaster/pkg/tcclient/client.go
+  s_28b4e458cad66d::t_926c32bcd85d41 24,102
+CubeMaster/pkg/tcclient/client_test.go
+  s_28b4e458cad66d::t_159d870e23e41d 14-18,21-25,134-165
+CubeMaster/pkg/templatecenter/artifact_cleanup.go
+  s_28b4e458cad66d::t_e4f34bcc1dc36e 18-20,49-56
+CubeMaster/pkg/templatecenter/cache.go
+  s_28b4e458cad66d::t_dd36b2ecd2b526 13-15,20,119,123-124,126
+CubeMaster/pkg/templatecenter/distribution.go
+  s_c4db8d555d31fc::t_1474fa4b1e7b63 21,28-29,189-192,216,227-237,296-302,334-339,341,344-350,355,359-363
+CubeMaster/pkg/templatecenter/distribution_span_test.go
+  s_28b4e458cad66d::t_2e11a7f3bd9b6e 1-326
+CubeMaster/pkg/templatecenter/image_job_reconciler.go
+  s_28b4e458cad66d::t_fc18155ab3658e 20-22,239-243,259,264,268,271
+CubeMaster/pkg/templatecenter/remote_build_resume.go
+  s_28b4e458cad66d::t_5044d917040fac 21,23-24,249,251-256,344-351
+CubeMaster/pkg/templatecenter/snapshot_rollback_span_test.go
+  s_28b4e458cad66d::t_b39fd215925d10 1-495
+CubeMaster/pkg/templatecenter/template_commit.go
+  s_28b4e458cad66d::t_29215f4392a40b 19,25-26,46-66,89,179,187-188,247,256-266,271,276,279-281,283-289,295-296,306-307,310,323-326,329,339-343,345,365-379,384-389,394-396,400,406-408,410,413,430,441,447,456-458
+CubeMaster/pkg/templatecenter/template_commit_span_test.go
+  s_28b4e458cad66d::t_48c761fc2bb403 1-544
+CubeMaster/pkg/templatecenter/template_request_test.go
+  s_28b4e458cad66d::t_a7050a6050d05c 4-6,9-12,14,83-159
+CubeShim/Cargo.lock
+  s_28b4e458cad66d::t_82fe4264e0bb6c 142-163,196-242,258-263,513-515,1255-1267,1537-1542,1585-1590,1797-1857,1916-1921,1974-1993,2082-2092,2107,2126-2138,2146,2716-2721,2908-2918,2958-3027,3064,3068-3078,3166,3181
+CubeShim/shim/Cargo.toml
+  s_28b4e458cad66d::t_fb141182610864 43-45
+CubeShim/shim/src/container/mod.rs
+  s_28b4e458cad66d::t_81f0d1a675d9fa 34,626,664-666,714,725-727
+CubeShim/shim/src/lib.rs
+  s_28b4e458cad66d::t_495dff0617c7b7 13
+CubeShim/shim/src/service/srv.rs
+  s_28b4e458cad66d::t_80696eefcb54f9 7,25,38,81
+CubeShim/shim/src/service/task_srv.rs
+  s_28b4e458cad66d::t_d3119a8d268cc6 35,275,305,326,331,370,390,429,445-446,697,701,733
+CubeShim/shim/src/service/update_ext.rs
+  s_28b4e458cad66d::t_e9c0cb75f0a524 7,143,157-167,174,179-182,218,237,260,262-318,337,345-348,356-455
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_2ee6b08ddc943c 1-433
+CubeTemplateCenter/cmd/templatecenter/app/main.go
+  s_28b4e458cad66d::t_1b631efd450a7c 19,60-65,146-153
+CubeTemplateCenter/go.mod
+  s_c4db8d555d31fc::t_a06fc8594184a0 19-21,43,77,139-140,142,154
+CubeTemplateCenter/go.sum
+  s_c4db8d555d31fc::t_50e3ba7920c363 35-36,159-160,336-339,348-349,440-441
+CubeTemplateCenter/pkg/api/internal.go
+  s_28b4e458cad66d::t_006a00727716f7 24,67-68
+CubeTemplateCenter/pkg/build/build.go
+  s_28b4e458cad66d::t_df4d9ba60b9f7f 23,33-34,43-44,99-110,155-157,164-170,179-186,256-260,264,266,270,273,275-276,279-281,283,289-290,296,343,348,399-406,424-431,559-566
+CubeTemplateCenter/pkg/build/build_cleanup_span_test.go
+  s_28b4e458cad66d::t_b5d27b2147d332 1-92
+CubeTemplateCenter/pkg/build/build_lock_span_test.go
+  s_28b4e458cad66d::t_7ad404fc71a253 1-166
+CubeTemplateCenter/pkg/build/build_publish_span_test.go
+  s_28b4e458cad66d::t_fc721dcda74afc 1-92
+CubeTemplateCenter/pkg/build/executor.go
+  s_28b4e458cad66d::t_bf82d4d193df8e 17,199-205,244-245
+CubeTemplateCenter/pkg/build/executor_trace_test.go
+  s_28b4e458cad66d::t_3b3aae5b79d1a3 1-116
+CubeTemplateCenter/pkg/build/reporter.go
+  s_28b4e458cad66d::t_ea6737598f963c 20,22-23,78-79,94-104,106,112,125-134,137,139-140,142,163
+CubeTemplateCenter/pkg/image/ext4.go
+  s_28b4e458cad66d::t_eaea0ac69b1008 19-21,226-239,244,250,253,291-295,297-298,304,307-308,311-312,324-325,329,331-337,342,348,351
+CubeTemplateCenter/pkg/image/types.go
+  s_28b4e458cad66d::t_4b97bb417929e7 124-130
+Cubelet/pkg/telemetry/telemetry.go
+  s_28b4e458cad66d::t_907bac06537af5 1-196
+Cubelet/pkg/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_d37eca301e10cb 1-288
+Cubelet/plugins/workflow/engine.go
+  s_28b4e458cad66d::t_cac1ce5dd61957 18-20,33,464-475,477-481,613-615,620-627,637,674,678,702-703,705
+Cubelet/plugins/workflow/telemetry_scope_test.go
+  s_28b4e458cad66d::t_699ef65be7bb44 1-201
+Cubelet/services/cubebox/appsnapshot.go
+  s_28b4e458cad66d::t_d0fdf7bdf213d2 30,37-38,80-92,161
+Cubelet/services/cubebox/appsnapshot_span_test.go
+  s_28b4e458cad66d::t_8df358f6425f40 1-122
+Cubelet/services/cubebox/pause_span_test.go
+  s_28b4e458cad66d::t_42dad589d8e004 1-83
+Cubelet/services/cubebox/probe.go
+  s_28b4e458cad66d::t_c27c01589af024 27,89,92
+Cubelet/services/cubebox/rollback_span_test.go
+  s_28b4e458cad66d::t_9127e6ee9b9f74 1-188
+Cubelet/services/cubebox/service.go
+  s_28b4e458cad66d::t_9e22e298b3aadd 25-26,39,334-342,348-352,354-361,388-391
+Cubelet/services/cubebox/template_commit_span_test.go
+  s_28b4e458cad66d::t_eb6431db8012ad 1-135
+Cubelet/services/cubebox/update.go
+  s_28b4e458cad66d::t_bec1622af7c34a 26,32-33,41-54,96-100,102-104,136-139
+Cubelet/services/images/service.go
+  s_28b4e458cad66d::t_9ea2dd3d1ce403 28,37-38,216-226
+Cubelet/services/server/server.go
+  s_28b4e458cad66d::t_c7540606d5c855 36,43,140-145,147-153,249,406-415
+deploy/kubernetes/chart/README.md
+  s_28b4e458cad66d::t_0de865aaf3f40d 752-765
+deploy/one-click/README.md
+  s_28b4e458cad66d::t_eed1a0576c1ee1 182-236
+deploy/one-click/README_zh.md
+  s_28b4e458cad66d::t_6f2d05625f8944 171-200
+deploy/one-click/env.example
+  s_c4db8d555d31fc::t_d34be22d65d213 539-544
+deploy/one-click/install.sh
+  s_c4db8d555d31fc::t_4360c1ffb6892a 63,2357-2358
+deploy/one-click/lib/common.sh
+  s_c4db8d555d31fc::t_32e91564a7ac18 528-529,570-582
+deploy/one-click/tests/test_toggle_inputs.sh
+  s_c4db8d555d31fc::t_97c3f2852a2d16 50-52,56-58,62-65,71-72,83-85,316-407,498-505
+docs/guide/bare-metal-deploy.md
+  s_28b4e458cad66d::t_b23efc64010bdd 73-99
+docs/guide/kubernetes/install.md
+  s_28b4e458cad66d::t_9521e98b213a5b 166-169,353-422
+docs/zh/guide/bare-metal-deploy.md
+  s_28b4e458cad66d::t_347da237dda5ec 72-95
+docs/zh/guide/kubernetes/install.md
+  s_28b4e458cad66d::t_d5d874db3e96e8 164-167,352-401
+CubeAPI/src/cubemaster/mod.rs
+  s_0467185dbd392c::t_12846a29727ab8 66-67,71,163-164,168,251-252,256,329-330,334,436-437,441,2921-3135
+CubeAPI/src/routes.rs
+  s_0467185dbd392c::t_d39a01f21a6db3 70,77-78
+CubeMaster/go.mod
+  s_0467185dbd392c::t_25486ca34a9f9a 39,60-64,172-173,175-176
+CubeMaster/go.sum
+  s_0467185dbd392c::t_e36f1945b329db 32-33,147-150,338-345,354-357,430-431
+CubeMaster/pkg/service/httpservice/common/gin_response.go
+  s_0467185dbd392c::t_e2a446807cda1b 11,13-15,28-45
+CubeMaster/pkg/service/httpservice/common/gin_response_test.go
+  s_0467185dbd392c::t_4c506618b7567d 15,17-20,75-118
+CubeMaster/pkg/service/httpservice/cube/sandbox_create_test.go
+  s_f777c104379d06::t_985a57b486228b 11,16-19,21,29-109,180-230
+CubeMaster/pkg/service/httpservice/middleware/gin_middleware.go
+  s_0467185dbd392c::t_df4b0fe71b9934 60-61
+CubeMaster/pkg/service/httpservice/middleware/gin_middleware_telemetry_test.go
+  s_0467185dbd392c::t_5c4f747def3b6d 1-94
+CubeMaster/pkg/service/sandbox/sandbox_update_trace_test.go
+  s_f777c104379d06::t_4fd648ac538931 1-366
+CubeMaster/pkg/templatecenter/image_job_runner.go
+  s_0467185dbd392c::t_a398990ac24a3c 10,18,21-22,83,89-96,163-167,169-172,175-177,183,187,194-195,199-204,207,239,247-251
+CubeMaster/pkg/templatecenter/replica_span_test.go
+  s_0467185dbd392c::t_e2909f561e807e 1-257
+CubeMaster/pkg/templatecenter/snapshot_create_span_test.go
+  s_f777c104379d06::t_99d92550e57bb4 1-921
+CubeMaster/pkg/templatecenter/store.go
+  s_0467185dbd392c::t_c07ef6275ae1c1 17-19,30,729-733,742-743,746,756-761,763,766,802-810,912,925-931,934,945,954,962,964,969,975,980,1967-1982,1985-1993,1995-1996,2000,2004-2007,2035-2037
+CubeMaster/pkg/templatecenter/store_test.go
+  s_0467185dbd392c::t_4126cabaa780e5 111
+CubeShim/shim/src/sandbox/sb.rs
+  s_0467185dbd392c::t_2cc664ea9492f9 49,631-632,641-644,648-654,656-671,673-675,677,679-682,684-686,688-703,1042,1046-1049,1054,1076,1078-1080,1085-1089,1091-1098,1102-1106,1108-1113,1115-1118,1120-1125,1127-1129,1131-1187,1189-1191,1194-1197,1225,1243,1249,1256,2048-2071,2073-2084,2086-2105,2107,2115-2127,2129-2134,2136-2137,2139-2142,2144,2146-2151,2153-2155,2157-2160,2162-2165,2167-2169,2262,2279,2281-2282,2287-2288,2444-2524,2549-2566
+CubeTemplateCenter/pkg/build/reporter_trace_test.go
+  s_0467185dbd392c::t_aa3f85a08bac41 1-191
+Cubelet/go.mod
+  s_0467185dbd392c::t_3e96253358259a 158-159,161-162,214-221
+Cubelet/go.sum
+  s_0467185dbd392c::t_cae95e78a1d58b 279-280,607-608,937-940,957-958,1527-1528
+Cubelet/services/cubebox/cube_container_create.go
+  s_0467185dbd392c::t_ecd0f75494d13f 65,1469-1470,1472,1477,1539-1540,1558-1560,1562,1607-1609,1612
+Cubelet/services/cubebox/pause_cow.go
+  s_0467185dbd392c::t_d3a3c524e730ac 24,31-32,301-331,416-417,445,458,467-471,475,503,554-555,560,564,575-576,681-682
+Cubelet/services/cubebox/rollback.go
+  s_0467185dbd392c::t_7086206c563f31 10,22,27-28,44-56,84-110,122,126-129,138,164-166,168,180,198,211,220,235,242-247,254,259,285-289,308,320,328
+Cubelet/services/cubebox/template_ops.go
+  s_0467185dbd392c::t_970b8b3c882b84 23,30-32,42-69,119,121,124-127,129,142,187,203,234,274-275,280-284,299-302,305-308,315,320,331-334,343,351,366,376-380,385,395-401,458-466,468,538,541,543,545-546,549-552,557,562,584-597
+docs/guide/tracing.md
+  s_0467185dbd392c::t_87f0da4d1cfca1 1-101
+docs/zh/guide/tracing.md
+  s_0467185dbd392c::t_fedac17e88551a 1-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "fe6b644e874fa6f86dd70a5a893461848fdef0e1",
+  "prompts": {},
+  "sessions": {
+    "s_0467185dbd392c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1daa9-f70d-7762-8aa4-af84e6786e12",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    },
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    },
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    },
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
