@@ -1,0 +1,21 @@
+docs/guide/tracing.md
+  s_f777c104379d06::t_2ecf95e2a6b781 118
+docs/zh/guide/tracing.md
+  s_f777c104379d06::t_24ba9ecb4d1156 118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "ce137a686b84bebf993079db82546fb50d10b119",
+  "prompts": {},
+  "sessions": {
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
