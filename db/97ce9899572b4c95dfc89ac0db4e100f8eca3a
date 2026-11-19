@@ -1,0 +1,31 @@
+CubeMaster/Makefile
+  s_f777c104379d06::t_529a4682c6f2d8 70-71
+CubeMaster/cmd/cubemastercli/commands/cubebox/envd_upload.go
+  s_f777c104379d06::t_b71c1848b6fdc1 74
+CubeMaster/pkg/base/constants/constants.go
+  s_f777c104379d06::t_cc88828d5306a0 132
+CubeMaster/pkg/templatecenter/envd_inject.go
+  s_f777c104379d06::t_6926556bc9efe9 59
+CubeTemplateCenter/pkg/build/envd_inject.go
+  s_f777c104379d06::t_3f9d25d4a44c1b 59
+docs/guide/tutorials/bring-your-own-image.md
+  s_f777c104379d06::t_0d0fe16fc97e01 160
+docs/zh/guide/tutorials/bring-your-own-image.md
+  s_f777c104379d06::t_7837c5990a5f1c 155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "db97ce9899572b4c95dfc89ac0db4e100f8eca3a",
+  "prompts": {},
+  "sessions": {
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
