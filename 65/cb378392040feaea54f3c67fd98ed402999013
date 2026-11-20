@@ -1,0 +1,23 @@
+CubeMaster/pkg/base/constants/constants.go
+  s_f777c104379d06::t_2b627d2d851d7d 131-136
+docs/guide/tutorials/bring-your-own-image.md
+  s_f777c104379d06::t_cb4b4c7ee00cc4 158,168
+docs/zh/guide/tutorials/bring-your-own-image.md
+  s_f777c104379d06::t_850c146c78c8e6 153,163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "65cb378392040feaea54f3c67fd98ed402999013",
+  "prompts": {},
+  "sessions": {
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
