@@ -1,0 +1,27 @@
+cube-lifecycle-manager/cmd/cube-lifecycle-manager/main.go
+  s_f777c104379d06::t_11e99e86bcdfd9 35,90-111
+cube-lifecycle-manager/internal/cubemasterclient/client.go
+  s_f777c104379d06::t_27300b6f9ba66d 22-25,110-113,117-120,164-181,222-223,226,229-250,290-291,294
+cube-lifecycle-manager/internal/httpapi/server.go
+  s_f777c104379d06::t_67040fb6687fdf 21-22,28,119-132,137,145-148,153-154
+cube-lifecycle-manager/internal/resumer/resumer.go
+  s_f777c104379d06::t_33bdb16671f0b9 18-19,25,136-138,140-142,156-159,171,211-218
+cube-lifecycle-manager/internal/telemetry/telemetry.go
+  s_f777c104379d06::t_758e3768497b14 1-282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "c1ddd7036b479bc34141a210e2b678ddfe60b1e8",
+  "prompts": {},
+  "sessions": {
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
