@@ -1,0 +1,25 @@
+deploy/kubernetes/chart/templates/lifecycle-manager.yaml
+  s_f777c104379d06::t_026d9ef3a3f252 104-106
+deploy/kubernetes/chart/values.yaml
+  s_f777c104379d06::t_b760bef522ff52 611-618
+deploy/one-click/cube-lifecycle-manager/docker-compose.yaml.template
+  s_f777c104379d06::t_21d7ce4e4c2744 28-32
+deploy/one-click/scripts/one-click/up-cube-lifecycle-manager.sh
+  s_f777c104379d06::t_ed4ec89fdb3b49 83-88,115-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7f125252d7b465b80d56f3a73702b05e915acfcc",
+  "prompts": {},
+  "sessions": {
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
