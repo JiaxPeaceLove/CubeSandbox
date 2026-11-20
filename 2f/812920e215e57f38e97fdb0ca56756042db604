@@ -1,0 +1,25 @@
+docs/guide/kubernetes/install.md
+  s_f777c104379d06::t_47181901599bd0 385-388,397-417,432-438,440-442
+docs/guide/tracing.md
+  s_f777c104379d06::t_0e1161b039f730 24,28,37,55-57,122-124
+docs/zh/guide/kubernetes/install.md
+  s_f777c104379d06::t_7d5f509ff2570a 381-384,389-403,410-412
+docs/zh/guide/tracing.md
+  s_f777c104379d06::t_f4c4d2c9237727 24,28,37,55-57,122-124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "2f812920e215e57f38e97fdb0ca56756042db604",
+  "prompts": {},
+  "sessions": {
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
