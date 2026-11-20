@@ -1,0 +1,19 @@
+cube-lifecycle-manager/internal/telemetry/telemetry.go
+  s_f777c104379d06::t_417589ac9b94c6 130-133,135-142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "0f10cc3b2c3e9003cb043a8480600a4d024fb903",
+  "prompts": {},
+  "sessions": {
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
