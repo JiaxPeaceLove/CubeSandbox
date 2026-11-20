@@ -1,0 +1,19 @@
+CubeProxy/nginx.conf
+  s_f777c104379d06::t_be8fb4bc7e779e 185-193,319-327,453-461
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "6ccbf1f3ef4353c7a27dabcd43dc6e178e83bda5",
+  "prompts": {},
+  "sessions": {
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
