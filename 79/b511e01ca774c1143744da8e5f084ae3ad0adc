@@ -1,0 +1,59 @@
+Cubelet/services/cubebox/cube_container_create_test.go
+  s_28b4e458cad66d::t_653c38ef99361e 13
+Cubelet/services/cubebox/service.go
+  s_28b4e458cad66d::t_fd3c9706addf65 576-578,585
+CubeProxy/lua/trace.lua
+  s_28b4e458cad66d::t_a2a414759f3a5f 484-487
+  s_28b4e458cad66d::t_5acf68dacc7172 469-483,488-489
+CubeProxy/tests/trace_test.lua
+  s_28b4e458cad66d::t_a2a414759f3a5f 332-342
+  s_28b4e458cad66d::t_4965af9ebaffab 331
+Cubelet/services/cubebox/pause_span_test.go
+  s_28b4e458cad66d::t_653c38ef99361e 18,35,52,68,85-98
+CubeMaster/pkg/cubelet/actions.go
+  s_28b4e458cad66d::t_e65b42babce0f9 43,45
+CubeMaster/pkg/service/sandbox/sandbox_remove.go
+  s_28b4e458cad66d::t_e65b42babce0f9 14-15,20,38-46
+CubeMaster/pkg/base/telemetry/middleware.go
+  s_28b4e458cad66d::t_88e2681770fa28 19,30
+CubeAPI/src/cubemaster/mod.rs
+  s_a6f55763d9e929::t_c0c52d82c53ac3 84-85,89
+CubeAPI/src/handlers/sandboxes.rs
+  s_a6f55763d9e929::t_48647873d53397 196
+CubeAPI/src/telemetry.rs
+  s_a6f55763d9e929::t_c6fa7ec0c801b3 67-68,157-164,193,235-242,333,337-345,351,371-372,437-438,448,468,486
+CubeProxy/conf/includes/envd_streaming_host_route.inc
+  s_a6f55763d9e929::t_dc4c9a5e940d7c 19
+CubeProxy/conf/includes/envd_streaming_path_route.inc
+  s_a6f55763d9e929::t_c8deb5fcdde769 19
+CubeProxy/lua/path_rewrite_phase.lua
+  s_a6f55763d9e929::t_8c9239e9940dad 38
+CubeProxy/lua/rewrite_phase.lua
+  s_a6f55763d9e929::t_99af9e221c95ea 46
+CubeProxy/nginx.conf
+  s_a6f55763d9e929::t_24ff9f156ccc6f 232,284,368,415,481
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "79b511e01ca774c1143744da8e5f084ae3ad0adc",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_a6f55763d9e929": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ec2d-067d-75c2-ad1a-820f6aa6492c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
