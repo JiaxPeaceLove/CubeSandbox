@@ -1,0 +1,46 @@
+CubeMaster/pkg/base/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_b28f40fa831b05 175,182-184,195-199,410,422
+  s_28b4e458cad66d::t_a8b0a11fb48221 401-409,411-421,423
+CubeMaster/pkg/base/telemetry/telemetry.go
+  s_f777c104379d06::t_e31d0dd78cad20 285-303
+CubeMaster/pkg/lifecycle/schema.go
+  s_f777c104379d06::t_25d156e1f3e70c 76-85
+CubeMaster/pkg/lifecycle/store.go
+  s_f777c104379d06::t_4ef61c3b93a8a1 17,69,85,120,143,270-276,288-294
+CubeMaster/pkg/lifecycle/store_test.go
+  s_f777c104379d06::t_b1d54335f31b01 15-17,372-440
+cube-lifecycle-manager/internal/lifecycle/schema.go
+  s_f777c104379d06::t_ce67e7072c112a 78-85
+cube-lifecycle-manager/internal/redisstream/stream.go
+  s_f777c104379d06::t_d132fd17326aca 191-194,507-510
+cube-lifecycle-manager/internal/redisstream/stream_test.go
+  s_f777c104379d06::t_5987049c8b00f5 425-463
+cube-lifecycle-manager/internal/statesync/handler.go
+  s_f777c104379d06::t_0ba856b0212a48 36-37,44-64,115-131,146,154,164,171,183,193,200,207,211-215
+cube-lifecycle-manager/internal/statesync/handler_trace_test.go
+  s_f777c104379d06::t_f3967fdeed7c08 1-285
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "ffdca8924b4a487788b5ce35bab14b2f340834d1",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
