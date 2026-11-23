@@ -1,0 +1,31 @@
+docs/grafana/cubesandbox-sandbox-trace.json
+  s_28b4e458cad66d::t_e2a2a90cfbb7c2 1-213
+docs/guide/tracing.md
+  s_a6f55763d9e929::t_b2b16829855ee4 112,181-188
+docs/zh/guide/tracing.md
+  s_a6f55763d9e929::t_63728e4b9bbdfc 112,181-188
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "e9eca2e97ad68f7f777f28e45c2f083d29070902",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_a6f55763d9e929": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ec2d-067d-75c2-ad1a-820f6aa6492c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
