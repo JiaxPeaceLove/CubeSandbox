@@ -1,0 +1,409 @@
+docs/guide/tracing.md
+  s_a6f55763d9e929::t_b2b16829855ee4 112,181-188
+  s_f777c104379d06::t_0e1161b039f730 24,26-28,37-38,46-47,55-57,122-124
+  s_28b4e458cad66d::t_d753e9f0a7b8e6 58-59,68-111,113-121,125-142,150,154-155,157-159,175-178,189-190
+CubeProxy/tests/trace_test.lua
+  s_28b4e458cad66d::t_4965af9ebaffab 160,200,219,232,256,264,276,306,331,343,357,392,400,412,421,435,476,506,516,549,565,577,594,612,644
+  s_28b4e458cad66d::t_a2a414759f3a5f 79,84,106,122,126,130,140,149,169,207,228,230,252,261,271-272,301-302,327,332-342,353,388,398,406,410,419,430-431,443,467,472,498,502,509-510,512,520,547,557,563,570,575,580,586,589-590,601,610,614,640,662,671
+  s_28b4e458cad66d::t_7c99d4295f8b54 76-78
+  s_28b4e458cad66d::t_c45e7c8a0dd6f6 80-83
+  s_28b4e458cad66d::t_562e8bb45370a4 85-87,103-105
+  s_28b4e458cad66d::t_d6fe66bcbf0a20 107-109,119-121
+  s_28b4e458cad66d::t_2935a60e8a8214 123-125
+  s_28b4e458cad66d::t_ba9a51a69aa3f7 127-129
+  s_28b4e458cad66d::t_23b179f981bdd0 131-133,137-139
+  s_28b4e458cad66d::t_d8bf34c9a7c4b1 141-143,146-148
+  s_28b4e458cad66d::t_9b501bde15443e 150-152,157-159
+  s_28b4e458cad66d::t_c65cbf29280f37 161-163,166-168
+  s_28b4e458cad66d::t_95f86720fb32a5 170-172,197-199
+  s_28b4e458cad66d::t_91d26dd38b9ec1 201-206
+  s_28b4e458cad66d::t_bc34de78c9678a 208-210,216-218
+  s_28b4e458cad66d::t_905c3836c40c10 220-222,225-227
+  s_28b4e458cad66d::t_fa805702c9238b 229
+  s_28b4e458cad66d::t_7265087b78f08a 231
+  s_28b4e458cad66d::t_f7c5256e3b465b 233-235,249-251
+  s_28b4e458cad66d::t_17e569f6012421 253-255
+  s_28b4e458cad66d::t_591034aeb8293f 257-260
+  s_28b4e458cad66d::t_bec3680037d422 262-263
+  s_28b4e458cad66d::t_06a4c67154460a 265-270
+  s_28b4e458cad66d::t_37a0635d863f5b 273-275
+  s_28b4e458cad66d::t_e3cb87442745b7 277-279,298-300
+  s_28b4e458cad66d::t_816bdde3c3c7f6 303-305
+  s_28b4e458cad66d::t_8d2155a1d25753 307-309,324-326
+  s_28b4e458cad66d::t_2e248dfe9651b7 328-330
+  s_28b4e458cad66d::t_6fc305ef115cf5 344-346,350-352
+  s_28b4e458cad66d::t_1c69522b8c309f 354-356
+  s_28b4e458cad66d::t_3d2db0f7d4a090 358-360,385-387
+  s_28b4e458cad66d::t_f3f5f08738466d 389-391
+  s_28b4e458cad66d::t_33a89a8dfb8e3e 393-397
+  s_28b4e458cad66d::t_9af8a62e69c3d0 399
+  s_28b4e458cad66d::t_e96bcb6b9969ce 401-405
+  s_28b4e458cad66d::t_651ee4a7156801 407-409
+  s_28b4e458cad66d::t_3c811a7c7b2743 411
+  s_28b4e458cad66d::t_2bb13f46b1f3e1 413-418
+  s_28b4e458cad66d::t_4b09ed0920c78a 420
+  s_28b4e458cad66d::t_fd2f390c2b9951 422-424,427-429
+  s_28b4e458cad66d::t_d2628e36ab89e5 432-434
+  s_28b4e458cad66d::t_c66e32f32014bf 436-438,440-442
+  s_28b4e458cad66d::t_aef1432d76e190 444-446,464-466
+  s_28b4e458cad66d::t_314e75c01aa860 468-471
+  s_28b4e458cad66d::t_1b7b7cc6a9068d 473-475
+  s_28b4e458cad66d::t_462cde5b6ef398 477-479,495-497
+  s_28b4e458cad66d::t_b652570abab8a2 499-501
+  s_28b4e458cad66d::t_66a29ced7e9b9d 503-505
+  s_28b4e458cad66d::t_9c4dd7f1a5e4d6 507-508
+  s_28b4e458cad66d::t_f8b47ddb298ed3 511
+  s_28b4e458cad66d::t_63b7f4523cdf8f 513-515
+  s_28b4e458cad66d::t_bd094fa1955931 517-519
+  s_28b4e458cad66d::t_b6e2bd2bf0bb6a 521-523,544-546
+  s_28b4e458cad66d::t_a675f2e4171730 548
+  s_28b4e458cad66d::t_5ab4cc25a67fc9 550-552,554-556
+  s_28b4e458cad66d::t_3fd70d54f33baf 558-562
+  s_28b4e458cad66d::t_23274c8ab3064b 564
+  s_28b4e458cad66d::t_84926025f488bb 566-569
+  s_28b4e458cad66d::t_188b7ccc63d173 571-574
+  s_28b4e458cad66d::t_38b112434a42e3 576
+  s_28b4e458cad66d::t_3b278dcf6cd405 578-579
+  s_28b4e458cad66d::t_6b68d624253f2d 581-585
+  s_28b4e458cad66d::t_feab123aced9c8 587-588
+  s_28b4e458cad66d::t_4603eeb668f021 591-593
+  s_28b4e458cad66d::t_73acbdc2cc8538 595-600
+  s_28b4e458cad66d::t_b92901913466d1 602-604,607-609
+  s_28b4e458cad66d::t_37f0292f5e5f3f 611
+  s_28b4e458cad66d::t_7f2e0419538b16 613
+  s_28b4e458cad66d::t_339b56b28e52a0 615-617,637-639
+  s_28b4e458cad66d::t_cad813192cf382 641-643
+  s_28b4e458cad66d::t_bf9eacfd90e40d 645-647,659-661
+  s_28b4e458cad66d::t_23e02a95047b64 663-665,668-670
+  s_28b4e458cad66d::t_2134cb606de7eb 672-673
+  s_28b4e458cad66d::t_86c92028ef5fe0 1-75,88-102,110-118,134-136,144-145,153-156,164-165,173-196,211-215,223-224,236-248,280-297,310-323,347-349,361-384,425-426,439,447-463,480-494,524-543,553,605-606,618-636,648-658,666-667
+CubeTemplateCenter/pkg/build/build.go
+  s_28b4e458cad66d::t_cb02940755b227 201-203
+cube-lifecycle-manager/internal/redisstream/stream_test.go
+  s_f777c104379d06::t_5987049c8b00f5 425-463
+cube-lifecycle-manager/internal/telemetry/telemetry.go
+  s_f777c104379d06::t_758e3768497b14 1-129,134,143-292
+  s_f777c104379d06::t_417589ac9b94c6 130-133,135-142
+cube-lifecycle-manager/internal/resumer/resumer.go
+  s_f777c104379d06::t_33bdb16671f0b9 18-19,25,136-138,140-142,156-159,171,211-218
+CubeProxy/conf/includes/envd_streaming_host_route.inc
+  s_a6f55763d9e929::t_dc4c9a5e940d7c 19
+CubeMaster/pkg/lifecycle/schema.go
+  s_f777c104379d06::t_25d156e1f3e70c 76-85
+CubeMaster/pkg/service/sandbox/envd_sidecar.go
+  s_28b4e458cad66d::t_ce8b63de2a9758 115
+  s_28b4e458cad66d::t_6b0efd5226ab4d 126,131
+  s_28b4e458cad66d::t_07ffe5cb1d43a0 52,65,76,92,107,122,125,127-130,133-134
+  s_28b4e458cad66d::t_1472bf5d9e7e6b 10-11,22-34,48-51,61-64,66-75,77-91,93-106,108-110
+CubeMaster/pkg/templatecenter/envd_inject_test.go
+  s_28b4e458cad66d::t_27682dd2126d6e 36
+  s_28b4e458cad66d::t_212510f8593b92 10-11,22-35
+CubeAPI/src/telemetry.rs
+  s_a6f55763d9e929::t_c6fa7ec0c801b3 34,36,43,67-68,108-111,157-164,169,186,193,212,229,231,235-242,246,291-314,333,337-345,351,371-372,437-438,448,468,486
+  s_28b4e458cad66d::t_bf61ea3a7b1754 14,16,22-33,35,37-42
+CubeMaster/pkg/templatecenter/envd_inject.go
+  s_28b4e458cad66d::t_cb02940755b227 10,39-50,56,60-61
+  s_28b4e458cad66d::t_f873bb7cccfae8 11,51-55,57-59
+  s_28b4e458cad66d::t_f828b1bf9dd73d 62-63
+  s_f777c104379d06::t_6926556bc9efe9 86
+CubeMaster/pkg/base/constants/constants.go
+  s_f777c104379d06::t_2b627d2d851d7d 131-136
+docs/zh/guide/tutorials/bring-your-own-image.md
+  s_f777c104379d06::t_7837c5990a5f1c 155
+  s_f777c104379d06::t_850c146c78c8e6 153,163
+CubeAPI/src/handlers/sandboxes.rs
+  s_a6f55763d9e929::t_48647873d53397 196
+cube-lifecycle-manager/internal/statesync/handler_trace_test.go
+  s_f777c104379d06::t_f3967fdeed7c08 1-285
+CubeTemplateCenter/pkg/image/source.go
+  s_28b4e458cad66d::t_cb02940755b227 55,133,198,307
+docs/grafana/cubesandbox-sandbox-trace.json
+  s_28b4e458cad66d::t_e2a2a90cfbb7c2 1-213
+CubeMaster/pkg/lifecycle/store_test.go
+  s_f777c104379d06::t_b1d54335f31b01 15-17,372-440
+CubeMaster/pkg/service/sandbox/envd_sidecar_test.go
+  s_28b4e458cad66d::t_6b0efd5226ab4d 86,92,94,102,104,113,116,122,125,141,144-145,152,166,188-189,195-196,203,211,217-218,226-244
+  s_28b4e458cad66d::t_a2a414759f3a5f 65
+  s_28b4e458cad66d::t_e21e08cc54c77d 31
+  s_28b4e458cad66d::t_95ae360276f0bd 78-85,87-91,93,95-101,103,105-112,114-115,117-121,123-124,126-140,142-143,146-151,153-165,167-187,190-194,197-202,204-210,212-216,219-225
+CubeMaster/pkg/templatecenter/fingerprint.go
+  s_28b4e458cad66d::t_5acf68dacc7172 16
+  s_28b4e458cad66d::t_07ffe5cb1d43a0 75-79,90
+docs/guide/tutorials/bring-your-own-image.md
+  s_f777c104379d06::t_0d0fe16fc97e01 160
+  s_f777c104379d06::t_cb4b4c7ee00cc4 158,168
+deploy/one-click/cube-lifecycle-manager/docker-compose.yaml.template
+  s_f777c104379d06::t_21d7ce4e4c2744 28-32
+Cubelet/services/cubebox/cube_container_create_test.go
+  s_28b4e458cad66d::t_653c38ef99361e 13
+deploy/one-click/scripts/one-click/up-cube-lifecycle-manager.sh
+  s_f777c104379d06::t_ed4ec89fdb3b49 83-88,115-116
+CubeProxy/lua/rewrite_phase.lua
+  s_a6f55763d9e929::t_99af9e221c95ea 46
+  s_28b4e458cad66d::t_e3b6100f9dbcef 5-11,35,43-45,47-48,55-56
+CubeProxy/lua/path_rewrite_phase.lua
+  s_a6f55763d9e929::t_8c9239e9940dad 38
+  s_28b4e458cad66d::t_48b70b7d7ce9eb 11-15,23,36-37,39-40,54-55
+docker/Dockerfile.cube-base
+  s_a6f55763d9e929::t_542d8db2ed46f5 68
+CubeTemplateCenter/pkg/build/envd_inject.go
+  s_f777c104379d06::t_3f9d25d4a44c1b 59
+CubeProxy/conf/includes/envd_streaming_path_route.inc
+  s_a6f55763d9e929::t_c8deb5fcdde769 19
+cube-lifecycle-manager/internal/redisstream/stream.go
+  s_f777c104379d06::t_d132fd17326aca 191-194,507-510
+cube-lifecycle-manager/internal/httpapi/server.go
+  s_f777c104379d06::t_67040fb6687fdf 21-22,28,119-132,137,145-148,153-154
+CubeMaster/pkg/base/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_a8b0a11fb48221 74,83,401-409,411-421,423
+  s_28b4e458cad66d::t_b28f40fa831b05 78,82,175,182-184,195-199,410,422
+  s_28b4e458cad66d::t_53db173ab17b2c 65-73,75-77,79-81,84
+deploy/kubernetes/chart/values.yaml
+  s_f777c104379d06::t_b760bef522ff52 611-618
+  s_28b4e458cad66d::t_5b2b6d92f287be 1095-1108
+cube-lifecycle-manager/internal/statesync/handler.go
+  s_f777c104379d06::t_0ba856b0212a48 36-37,44-64,115-131,146,154,164,171,183,193,200,207,211-215
+CubeMaster/pkg/lifecycle/store.go
+  s_f777c104379d06::t_4ef61c3b93a8a1 17,69,85,120,143,270-276,288-294
+cube-lifecycle-manager/cmd/cube-lifecycle-manager/main.go
+  s_f777c104379d06::t_11e99e86bcdfd9 35,90-111
+docs/zh/guide/kubernetes/install.md
+  s_f777c104379d06::t_7d5f509ff2570a 381-384,389-403,410-412,420,430,436-439,449
+  s_28b4e458cad66d::t_d76e9bc0f08b8e 166,413-419,421-429,431-435,440-448,450-453
+CubeMaster/pkg/service/sandbox/sandbox_remove.go
+  s_28b4e458cad66d::t_e65b42babce0f9 14-15,20,38-46
+deploy/kubernetes/chart/templates/lifecycle-manager.yaml
+  s_f777c104379d06::t_026d9ef3a3f252 104-106
+CubeAPI/src/cubemaster/mod.rs
+  s_a6f55763d9e929::t_c0c52d82c53ac3 84-85,89
+CubeProxy/nginx.conf
+  s_a6f55763d9e929::t_24ff9f156ccc6f 232,284,368,415,481
+  s_f777c104379d06::t_be8fb4bc7e779e 185-193,321-329,457-465
+  s_28b4e458cad66d::t_5cd58a2e5f2d86 26-37
+docs/zh/guide/tracing.md
+  s_a6f55763d9e929::t_63728e4b9bbdfc 112,181-188
+  s_f777c104379d06::t_f4c4d2c9237727 24,26-28,37-38,46-47,55-57,122-124
+  s_f777c104379d06::t_4bb8f514d12761 58-59
+  s_a6f55763d9e929::t_23b9e6e12426a3 109-111
+  s_f777c104379d06::t_7d84cd0f2c02b9 125-127
+  s_a6f55763d9e929::t_4e0a71fee8ea88 189-190
+  s_28b4e458cad66d::t_db74d45abdcc6a 68-108,113-121,128-142,150,154-155,157-159,175-178
+CubeMaster/Makefile
+  s_f777c104379d06::t_529a4682c6f2d8 70-71
+CubeTemplateCenter/pkg/image/types.go
+  s_28b4e458cad66d::t_d197d628972f8d 42-45,62-63,75
+CubeShim/shim/src/sandbox/sb.rs
+  s_f777c104379d06::t_3146cc014956cd 885-889
+  s_28b4e458cad66d::t_1c996a90c7682f 102,144,514-517,549,753-757,795-800,1236,1239
+cube-lifecycle-manager/internal/lifecycle/schema.go
+  s_f777c104379d06::t_ce67e7072c112a 78-85
+Cubelet/services/cubebox/pause_span_test.go
+  s_28b4e458cad66d::t_653c38ef99361e 18,35,52,68,85-98
+CubeProxy/lua/trace.lua
+  s_28b4e458cad66d::t_5acf68dacc7172 78,82,92,109,116,131,138,140,150,153,167,183,187,197,201,211,214,246,260,263,288,291,300,342,346,350,353,368,376,381,429,432,451,463,469-483,488-489,492,496,499,509,513,519,530,534,592-593,604,606,628,700,705,709,716
+  s_28b4e458cad66d::t_a2a414759f3a5f 117,139,151,165,199,212,224,229,234,238,241,244,255,261,273,277,289,310,326,335,340,347,351,354,378,396,401,406,409,414,434,452,484-487,493,497,510,514,531,535,547,562,581,594,605,615,618,623,626,649,655,662,671,674,677,680,683,686,695
+  s_28b4e458cad66d::t_367b3d81a80abd 75-77
+  s_28b4e458cad66d::t_230c4c5cf94032 79-81
+  s_28b4e458cad66d::t_6d1fda622ecd91 83-85,89-91
+  s_28b4e458cad66d::t_e741bf92e5a812 93-95,106-108
+  s_28b4e458cad66d::t_577f8fb51897c4 110-115
+  s_28b4e458cad66d::t_5727d1c4081569 118-120,128-130
+  s_28b4e458cad66d::t_48705d5147b439 132-137
+  s_28b4e458cad66d::t_0a3c6c2a741b10 141-143,147-149
+  s_28b4e458cad66d::t_f4726a2ffef6ac 152
+  s_28b4e458cad66d::t_488a4d84d00c38 154-156,162-164
+  s_28b4e458cad66d::t_9867f27782d444 166
+  s_28b4e458cad66d::t_657c485862d172 168-170,180-182
+  s_28b4e458cad66d::t_6bc236d044fcc5 184-186
+  s_28b4e458cad66d::t_d12c5bb361e9cc 188-190,194-196
+  s_28b4e458cad66d::t_37d26ed06e0fea 198
+  s_28b4e458cad66d::t_9da51bbb6a7f40 200
+  s_28b4e458cad66d::t_5569348719eb5b 202-204,208-210
+  s_28b4e458cad66d::t_5ff21dd69bcfcc 213
+  s_28b4e458cad66d::t_74d29c803928b9 215-217,221-223
+  s_28b4e458cad66d::t_22ec9b6c8707d1 225-228
+  s_28b4e458cad66d::t_28443a01c9493f 230-233
+  s_28b4e458cad66d::t_43f2d676dcec93 235-237
+  s_28b4e458cad66d::t_92c3176507fbc4 239-240
+  s_28b4e458cad66d::t_8094fe0a5eedce 242-243
+  s_28b4e458cad66d::t_89966677483fb2 245
+  s_28b4e458cad66d::t_15ba8ae50472c3 247-249,252-254
+  s_28b4e458cad66d::t_97c3b832d0a11b 256-259
+  s_28b4e458cad66d::t_971bd62818c72f 262
+  s_28b4e458cad66d::t_b05ed7444292d0 264-266,270-272
+  s_28b4e458cad66d::t_1941615b0006ea 274-276
+  s_28b4e458cad66d::t_6bba90cad38a88 278-280,285-287
+  s_28b4e458cad66d::t_37abd035dd74e3 290
+  s_28b4e458cad66d::t_d48281cfaa6010 292-294,297-299
+  s_28b4e458cad66d::t_7bb7211260d8c7 301-303,307-309
+  s_28b4e458cad66d::t_9840021d6ad34a 311-313,323-325
+  s_28b4e458cad66d::t_26515b04398fef 327-329,332-334
+  s_28b4e458cad66d::t_9e82d5bdcd90d9 336-339
+  s_28b4e458cad66d::t_dd32fe7b5bf1fc 341
+  s_28b4e458cad66d::t_a76154df1fc324 343-345
+  s_28b4e458cad66d::t_6ae8e93d5e4c30 348-349
+  s_28b4e458cad66d::t_dfbaf5e7f3d786 352
+  s_28b4e458cad66d::t_ed06fe347f3612 355-357,365-367
+  s_28b4e458cad66d::t_d94fe49b37b645 369-371,373-375
+  s_28b4e458cad66d::t_13d48510c6bdf6 377
+  s_28b4e458cad66d::t_923aa64e85a28c 379-380
+  s_28b4e458cad66d::t_fd26992a821b36 382-384,393-395
+  s_28b4e458cad66d::t_aeb4cdb1927548 397-400
+  s_28b4e458cad66d::t_e5d15673038f60 402-405
+  s_28b4e458cad66d::t_a9dfa2e734f84e 407-408
+  s_28b4e458cad66d::t_f8239173db4d55 410-413
+  s_28b4e458cad66d::t_b1348cb536637f 415-417,426-428
+  s_28b4e458cad66d::t_cd701a7801beff 430-431
+  s_28b4e458cad66d::t_e4b31893d81259 433
+  s_28b4e458cad66d::t_0169578110022f 435-437,448-450
+  s_28b4e458cad66d::t_919795fd1faad5 453-455,460-462
+  s_28b4e458cad66d::t_0897edb27b495d 464-468
+  s_28b4e458cad66d::t_8accfaa12339b5 490-491
+  s_28b4e458cad66d::t_76c2c507212ac3 494-495
+  s_28b4e458cad66d::t_60016d72389a73 498
+  s_28b4e458cad66d::t_7f02257be3308d 500-502,506-508
+  s_28b4e458cad66d::t_0706abecee0db7 511-512
+  s_28b4e458cad66d::t_d06fc5291a2aba 515-518
+  s_28b4e458cad66d::t_92b7fbd989143d 520-522,527-529
+  s_28b4e458cad66d::t_6c6cd45cdb51e8 532-533
+  s_28b4e458cad66d::t_e69427abe54e6d 536-538,544-546
+  s_28b4e458cad66d::t_2e24b275d1e476 548-550,559-561
+  s_28b4e458cad66d::t_339a36fed17b26 563-565,578-580
+  s_28b4e458cad66d::t_5504a4086e114c 582-584,589-591
+  s_28b4e458cad66d::t_13aa9c07a659a3 595-597,601-603
+  s_28b4e458cad66d::t_b60a20fdd9dc8f 607-609,612-614
+  s_28b4e458cad66d::t_d1caf5e2ab5089 616-617
+  s_28b4e458cad66d::t_513d507ff8248e 619-622
+  s_28b4e458cad66d::t_c884c26ae0fd7c 624-625
+  s_28b4e458cad66d::t_388496d4875d0e 627
+  s_28b4e458cad66d::t_2d3003dfe7d5d6 629-631,646-648
+  s_28b4e458cad66d::t_dcc1245f6ad0d4 650-654
+  s_28b4e458cad66d::t_98e72c6b7b351e 656-661
+  s_28b4e458cad66d::t_1c9229f2f8b048 663-665,668-670
+  s_28b4e458cad66d::t_83fd2eeef4c4bb 672-673
+  s_28b4e458cad66d::t_55c768857d2454 675-676
+  s_28b4e458cad66d::t_2fbf1e9ed8a317 678-679
+  s_28b4e458cad66d::t_276f8adda38ab7 681-682
+  s_28b4e458cad66d::t_9f8284427aec21 684-685
+  s_28b4e458cad66d::t_b5385b396de5cf 687-689,692-694
+  s_28b4e458cad66d::t_44c6aa1d9f42e8 696-699
+  s_28b4e458cad66d::t_7531720509cb70 701-704
+  s_28b4e458cad66d::t_229f6e19cfbbeb 706-708
+  s_28b4e458cad66d::t_41fcd4e4fa9101 710-715
+  s_28b4e458cad66d::t_c60c211a90493a 717-718
+  s_28b4e458cad66d::t_3c900cac592a54 1-74,86-88,96-105,121-127,144-146,157-161,171-179,191-193,205-207,218-220,250-251,267-269,281-284,295-296,304-306,314-322,330-331,358-364,372,385-392,418-425,438-447,456-459,503-505,523-526,539-543,551-558,566-577,585-588,598-600,610-611,632-645,666-667,690-691
+CubeMaster/pkg/cubelet/actions.go
+  s_28b4e458cad66d::t_e65b42babce0f9 43,45
+CubeMaster/pkg/base/telemetry/telemetry.go
+  s_f777c104379d06::t_e31d0dd78cad20 41,52,207,285-301
+  s_28b4e458cad66d::t_5b32d56abb9a41 16,28-40,42-51,53-55,192,205-206,270-271,277,281-284,306
+CubeMaster/cmd/cubemastercli/commands/cubebox/envd_upload.go
+  s_f777c104379d06::t_b71c1848b6fdc1 74
+docs/guide/kubernetes/install.md
+  s_f777c104379d06::t_47181901599bd0 385-388,397-417,432-438,440-442,453,463,476-479,489
+  s_28b4e458cad66d::t_6ef89f8689ee87 168,443-452,454-462,464-475,480-488,490-499
+Cubelet/services/cubebox/service.go
+  s_28b4e458cad66d::t_fd3c9706addf65 576-578,585
+CubeMaster/pkg/base/telemetry/middleware.go
+  s_28b4e458cad66d::t_88e2681770fa28 19,30
+cube-lifecycle-manager/internal/cubemasterclient/client.go
+  s_f777c104379d06::t_27300b6f9ba66d 22-25,110-113,117-120,164-187,228-229,232,235-264,304-305,308
+.gitattributes
+  s_28b4e458cad66d::t_402fd61ff4a55d 4-16
+CubeMaster/pkg/templatecenter/replica_span_test.go
+  s_28b4e458cad66d::t_f8a577ee8f0f57 117-120
+CubeProxy/Makefile
+  s_28b4e458cad66d::t_815c822ea03ddf 50,57,59
+CubeProxy/lua/init_worker_phase.lua
+  s_28b4e458cad66d::t_f1869f8d1a9f76 30-45
+CubeProxy/lua/log_phase.lua
+  s_28b4e458cad66d::t_cbd6da246ad932 13-19,66-70
+CubeProxy/lua/sandbox_backend.lua
+  s_28b4e458cad66d::t_861c3d97de073b 11,33-34,39,47,155,208,211-214,219,225,263,266-268,273,284-288
+CubeProxy/lua/sandbox_state.lua
+  s_28b4e458cad66d::t_8abd668fc13d5f 57,64,116-119
+CubeProxy/lua/utils.lua
+  s_28b4e458cad66d::t_b410c1b3991ebd 11-14,60,63-66,68-72,96-101,104-105,108-109,112-113,116-117
+CubeShim/shim/src/container/mod.rs
+  s_28b4e458cad66d::t_8f436fde07710e 612-616,675-679,1025,1110-1114
+CubeShim/shim/src/service/task_srv.rs
+  s_28b4e458cad66d::t_b6798957bb43ab 397-400,474-480
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_9af3d8ff09b194 7-9,12,14,16,21-29,34-42,49-61,72,112-115,159-331,347-354,363-365,376-383,387,390-393,399-401,405-423,558-709
+Cubelet/pkg/telemetry/telemetry.go
+  s_28b4e458cad66d::t_e67032f5cc4a2d 15,29-55,142,155-157,171,220,226
+Cubelet/pkg/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_bfcdd3d0c692ff 16,66-84
+agent/src/tracer.rs
+  s_28b4e458cad66d::t_7a0cf6455d6596 7-16,31-34,55-58,78-97,106-126,129-183
+agent/vsock-exporter/Cargo.toml
+  s_28b4e458cad66d::t_a23bbd472fb201 20-23
+agent/vsock-exporter/src/lib.rs
+  s_28b4e458cad66d::t_d136e72d383c79 113-114,116-118,120-125,127-147,149-166,168-184,251-440
+cube-lifecycle-manager/go.mod
+  s_28b4e458cad66d::t_cc1e47d094b37d 10-14,19,22-24,27-30,33-39
+cube-lifecycle-manager/go.sum
+  s_28b4e458cad66d::t_ff24f4bf958031 7-8,15-23,26-27,30-33,38-41,46-63,74-87,89-90
+cube-lifecycle-manager/internal/sweeper/sweeper.go
+  s_28b4e458cad66d::t_eeaed0676fc034 16-17,24,111-124,141,198-202,216-221,231-243
+deploy/kubernetes/chart/README.md
+  s_28b4e458cad66d::t_3953218c7dc5d0 643-652
+deploy/kubernetes/chart/templates/proxy.yaml
+  s_28b4e458cad66d::t_765e3d067940d1 249-265
+deploy/one-click/README.md
+  s_28b4e458cad66d::t_4b4278d8bc23fe 218-246,248-249
+deploy/one-click/README_zh.md
+  s_28b4e458cad66d::t_d07dca62881dba 189-207
+deploy/one-click/cubeproxy/docker-compose.yaml.template
+  s_28b4e458cad66d::t_2d553f8fb17c69 27-33
+deploy/one-click/env.example
+  s_28b4e458cad66d::t_2a7dd188a2e2fb 421-438
+deploy/one-click/install.sh
+  s_28b4e458cad66d::t_adef06b460090f 2060-2067
+deploy/one-click/lib/common.sh
+  s_28b4e458cad66d::t_9436eceb8b32e6 519-522
+deploy/one-click/scripts/one-click/up-cube-proxy.sh
+  s_28b4e458cad66d::t_7b893ce6fa8c6f 129-141,260-263
+docs/guide/bare-metal-deploy.md
+  s_28b4e458cad66d::t_46764c4d31e5de 100-106
+docs/zh/guide/bare-metal-deploy.md
+  s_28b4e458cad66d::t_548a4b7afc8411 96-99
+cube-lifecycle-manager/internal/cubemasterclient/client_trace_test.go
+  s_28b4e458cad66d::t_6e83be4799a2bf 1-242
+cube-lifecycle-manager/internal/sweeper/sweeper_trace_test.go
+  s_28b4e458cad66d::t_286d795dc94a56 1-262
+cube-lifecycle-manager/internal/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_b17ef51c7f83aa 1-454
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "a93c371813c1f65f62a877717b5ce060cc8b8bc9",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_a6f55763d9e929": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ec2d-067d-75c2-ad1a-820f6aa6492c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiaxu <18910286396@163.com>"
+    }
+  }
+}
