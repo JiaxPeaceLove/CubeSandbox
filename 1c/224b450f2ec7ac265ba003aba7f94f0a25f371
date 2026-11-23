@@ -1,0 +1,51 @@
+CubeMaster/pkg/service/sandbox/envd_sidecar_test.go
+  s_28b4e458cad66d::t_6b0efd5226ab4d 226-243
+  s_28b4e458cad66d::t_a2a414759f3a5f 65
+  s_28b4e458cad66d::t_e21e08cc54c77d 31
+CubeTemplateCenter/pkg/image/types.go
+  s_28b4e458cad66d::t_d197d628972f8d 42-45,62-63,75
+CubeTemplateCenter/pkg/image/source.go
+  s_28b4e458cad66d::t_cb02940755b227 55,133,198,307
+CubeMaster/pkg/templatecenter/fingerprint.go
+  s_28b4e458cad66d::t_5acf68dacc7172 16
+  s_28b4e458cad66d::t_07ffe5cb1d43a0 75-79,90
+CubeTemplateCenter/pkg/build/build.go
+  s_28b4e458cad66d::t_cb02940755b227 201-203
+CubeMaster/pkg/service/sandbox/envd_sidecar.go
+  s_28b4e458cad66d::t_6b0efd5226ab4d 126,131
+  s_28b4e458cad66d::t_ce8b63de2a9758 115
+  s_28b4e458cad66d::t_07ffe5cb1d43a0 52,122,125,127-130,133-134
+CubeMaster/pkg/templatecenter/envd_inject.go
+  s_28b4e458cad66d::t_cb02940755b227 10,39-50,56,60-61
+  s_28b4e458cad66d::t_f873bb7cccfae8 11,51-55,57-59
+  s_28b4e458cad66d::t_f828b1bf9dd73d 62-63
+CubeMaster/pkg/templatecenter/envd_inject_test.go
+  s_28b4e458cad66d::t_212510f8593b92 10-11,22-35
+  s_28b4e458cad66d::t_27682dd2126d6e 36
+docker/Dockerfile.cube-base
+  s_a6f55763d9e929::t_542d8db2ed46f5 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "1c224b450f2ec7ac265ba003aba7f94f0a25f371",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_a6f55763d9e929": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ec2d-067d-75c2-ad1a-820f6aa6492c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
