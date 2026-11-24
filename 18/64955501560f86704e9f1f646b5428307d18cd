@@ -1,0 +1,21 @@
+CubeMaster/pkg/service/sandbox/envd_sidecar.go
+  s_c4db8d555d31fc::t_b0bd16097a2d0e 46
+CubeMaster/pkg/service/sandbox/envd_sidecar_test.go
+  s_c4db8d555d31fc::t_712aebcf4077e9 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "1864955501560f86704e9f1f646b5428307d18cd",
+  "prompts": {},
+  "sessions": {
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
