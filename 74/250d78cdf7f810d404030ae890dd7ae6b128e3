@@ -1,0 +1,88 @@
+CubeMaster/pkg/service/sandbox/sandbox_remove.go
+  s_28b4e458cad66d::t_e28d6a74a78ea3 47,49-58
+  s_28b4e458cad66d::t_213aa81b9e8d32 46,48
+Cubelet/pkg/telemetry/telemetry_test.go
+  s_28b4e458cad66d::t_213aa81b9e8d32 49,67-76,212,231
+CubeTemplateCenter/pkg/build/envd_inject.go
+  s_28b4e458cad66d::t_f37789b0e67d7c 60
+  s_28b4e458cad66d::t_327152dea64bee 15,65-67
+CubeMaster/pkg/templatecenter/envd_inject.go
+  s_28b4e458cad66d::t_327152dea64bee 16
+  s_28b4e458cad66d::t_458110cecf77a6 106-123,126,129
+CubeMaster/pkg/templatecenter/fingerprint.go
+  s_28b4e458cad66d::t_458110cecf77a6 76,78,81,93
+Cubelet/pkg/telemetry/telemetry.go
+  s_28b4e458cad66d::t_213aa81b9e8d32 94
+Cubelet/services/cubebox/service.go
+  s_28b4e458cad66d::t_213aa81b9e8d32 576
+CubeMaster/pkg/service/sandbox/envd_sidecar.go
+  s_28b4e458cad66d::t_458110cecf77a6 23
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_93afa86429ce82 6,8,10,278-289,291,312-313,316-317,329-333,343,345-376
+  s_28b4e458cad66d::t_06e297e7aa18e3 338,761-764,766-774
+  s_28b4e458cad66d::t_9ed206e4b3ae16 314
+  s_28b4e458cad66d::t_2ce8bc621a0bd6 315
+  s_28b4e458cad66d::t_ac465242367d11 326-328
+  s_28b4e458cad66d::t_a55d3c5fb3b22c 334-337
+  s_28b4e458cad66d::t_5f32bb22ea446b 339-342
+  s_28b4e458cad66d::t_6302ebcfcee25d 344
+  s_28b4e458cad66d::t_00ec0894475c4f 377
+  s_28b4e458cad66d::t_fdd3136f3e3299 765
+  s_28b4e458cad66d::t_f92da4175e9c6d 775
+  s_f777c104379d06::t_25fc48e582d224 34-35,322-325
+CubeMaster/pkg/templatecenter/envd_inject_test.go
+  s_28b4e458cad66d::t_d9e6d74b7f90ae 18
+  s_28b4e458cad66d::t_327152dea64bee 120-136
+Cubelet/services/cubebox/pause_span_test.go
+  s_28b4e458cad66d::t_213aa81b9e8d32 94
+CubeProxy/nginx.conf
+  s_28b4e458cad66d::t_7647131a5a5a25 444,504
+CubeMaster/pkg/base/constants/constants.go
+  s_28b4e458cad66d::t_458110cecf77a6 135-137
+CubeProxy/lua/path_rewrite_phase.lua
+  s_f777c104379d06::t_a4a517c597375c 23
+CubeProxy/lua/rewrite_phase.lua
+  s_f777c104379d06::t_632eea3feaa1ad 35,58-60
+CubeProxy/lua/trace.lua
+  s_f777c104379d06::t_a79df5605c6b3b 393-401,436,524-553,561,582,584-585,590-591
+CubeProxy/lua/utils.lua
+  s_f777c104379d06::t_b8a973dab2c79e 80-81,90,103
+CubeProxy/tests/trace_test.lua
+  s_f777c104379d06::t_60f54ac49c03b1 421-450
+CubeShim/shim/src/main.rs
+  s_f777c104379d06::t_4cfeeb969eb1fc 9,27-33
+CubeShim/shim/src/sandbox/sb.rs
+  s_f777c104379d06::t_380af4776a4b4a 754,888-896
+deploy/one-click/README.md
+  s_f777c104379d06::t_4056e7d2477119 204-205,207,209-212
+deploy/one-click/README_zh.md
+  s_f777c104379d06::t_b6b4177fad4a2d 183,185
+docs/guide/tutorials/bring-your-own-image.md
+  s_f777c104379d06::t_7f8c96c56a13a8 158,168
+docs/zh/guide/tutorials/bring-your-own-image.md
+  s_f777c104379d06::t_c0057025f8885b 153,163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "74250d78cdf7f810d404030ae890dd7ae6b128e3",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
