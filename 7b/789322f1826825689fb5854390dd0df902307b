@@ -1,0 +1,33 @@
+cube-envd/Cargo.lock
+  s_f777c104379d06::t_a1a0fbd67c420b 282,437-440,509-514,684-695,705-706,983-991,1149-1221,1301-1309,1329-1351,1438,1474-1479,1486-1495,1504-1523,1538,1575,1577,2042-2062,2260-2268,2441-2446,2476-2495
+cube-envd/Cargo.toml
+  s_08e7a6959bd21a::t_192b9340cb7085 33-36,52
+cube-envd/src/main.rs
+  s_08e7a6959bd21a::t_96f39151fbc997 35
+cube-envd/src/transport/mod.rs
+  s_08e7a6959bd21a::t_316603e1852638 99-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7b789322f1826825689fb5854390dd0df902307b",
+  "prompts": {},
+  "sessions": {
+    "s_08e7a6959bd21a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b02a-141f-7133-aa63-a2072dd055eb",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_f777c104379d06": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "982af578-d5e9-4ed6-9034-b6d8d8b5457c",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
