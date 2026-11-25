@@ -1,0 +1,22 @@
+CubeMaster/pkg/service/sandbox/envd_sidecar_test.go
+  s_28b4e458cad66d::t_4c357f306efd05 9-12,14,17,37,42-54,88
+  s_28b4e458cad66d::t_7a9184405d0b47 55-87,89-90
+CubeMaster/pkg/service/sandbox/envd_sidecar.go
+  s_28b4e458cad66d::t_04f9715af57da7 22-25,63,127-128,130-140,162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f73e2642dbde03016bbbca93b82b4cf95f4d4e09",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
