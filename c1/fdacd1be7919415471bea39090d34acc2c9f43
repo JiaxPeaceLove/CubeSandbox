@@ -1,0 +1,39 @@
+CubeMaster/pkg/service/sandbox/envd_sidecar.go
+  s_28b4e458cad66d::t_05944c7244158f 28,30-33,37,49-50,55-58,67-70,75,78,81-92,94,98,101-117,120-123,127-129,132-150,152-153
+CubeMaster/pkg/service/sandbox/envd_sidecar_test.go
+  s_28b4e458cad66d::t_90a51db8b3ec4c 216-219,230,257,259,261,267,276-278,285,287,290-292,300,305-306,321-324,340
+  s_28b4e458cad66d::t_6b76a82aacaca8 42,47-48,51-54,58-59,65-68,74-88,99-101,105-109,112,115
+docker/cube-entrypoint.sh
+  s_28b4e458cad66d::t_1a8140df575215 38-48,50,52-53,55,58,65
+  s_28b4e458cad66d::t_9f21c15427280f 37,51
+deploy/one-click/README.md
+  s_28b4e458cad66d::t_577f30d60fca1d 227,242-244
+deploy/one-click/README_zh.md
+  s_28b4e458cad66d::t_63ec709b48a11d 205
+deploy/one-click/env.example
+  s_28b4e458cad66d::t_5fe0976e68e0f0 430-432
+docs/guide/kubernetes/install.md
+  s_28b4e458cad66d::t_24b4df1f4798af 491-495
+docs/guide/tracing.md
+  s_28b4e458cad66d::t_8a5f943265259b 114-116
+docs/zh/guide/kubernetes/install.md
+  s_28b4e458cad66d::t_e912c74b81ad9f 451
+docs/zh/guide/tracing.md
+  s_28b4e458cad66d::t_5ce839496f9faa 114-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "c1fdacd1be7919415471bea39090d34acc2c9f43",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
