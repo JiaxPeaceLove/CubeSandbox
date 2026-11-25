@@ -1,0 +1,26 @@
+CubeShim/shim/src/telemetry.rs
+  s_28b4e458cad66d::t_9ed206e4b3ae16 7
+  s_28b4e458cad66d::t_cc9d21152c515a 212-214,217-223,230,232,248-250,252,255,274,649,662-668,672,674-675,677-682
+CubeShim/shim/src/sandbox/sb.rs
+  s_28b4e458cad66d::t_342caedb60f176 888
+docs/guide/tracing.md
+  s_28b4e458cad66d::t_1f675e29bb4dd3 136
+docs/zh/guide/tracing.md
+  s_28b4e458cad66d::t_859345d87e14a4 136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "bbaaf2f8776584df20162a96f109ffa64d91a3e2",
+  "prompts": {},
+  "sessions": {
+    "s_28b4e458cad66d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a152ff-fc5a-7931-bed5-f0e6d5f2ce54",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
