@@ -1,0 +1,45 @@
+CubeShim/shim/src/guest_trace.rs
+  s_c4db8d555d31fc::t_207fc0b5cd18fc 1-308
+CubeShim/shim/src/lib.rs
+  s_c4db8d555d31fc::t_dccec68261b58a 8
+CubeShim/shim/src/main.rs
+  s_c4db8d555d31fc::t_b1b7a490301c1b 8,27-33
+CubeShim/shim/src/sandbox/sb.rs
+  s_c4db8d555d31fc::t_f66583c855bb81 44,169,212,850-858,962-967,1062-1069
+CubeShim/shim/src/telemetry.rs
+  s_c4db8d555d31fc::t_68a7d8e2f7bc93 90-95
+agent/src/tracer.rs
+  s_c4db8d555d31fc::t_24a80bdef7e16e 11,70-73,82-88,91-110
+agent/vsock-exporter/Cargo.toml
+  s_c4db8d555d31fc::t_f5c528e22b0f9b 20-23
+agent/vsock-exporter/src/lib.rs
+  s_c4db8d555d31fc::t_f879dc2d0d403e 113-114,116-118,120-125,127-147,149-166,168-184,251-442
+docs/guide/tracing.md
+  s_08e7a6959bd21a::t_43e9639a8313b7 62-71
+docs/zh/guide/tracing.md
+  s_08e7a6959bd21a::t_603b5435f02149 62-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "53043af2272b74681dfbac7e332d23a27042a3d8",
+  "prompts": {},
+  "sessions": {
+    "s_08e7a6959bd21a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b02a-141f-7133-aa63-a2072dd055eb",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
