@@ -1,0 +1,45 @@
+CubeAPI/src/telemetry.rs
+  s_08e7a6959bd21a::t_70b6cd08d9ef91 288
+  s_c4db8d555d31fc::t_30045a1d79993b 32-33,145-153,175,290,303-313,319,329,333,346-347,433-439,441,465,483
+Cubelet/pkg/telemetry/telemetry.go
+  s_c4db8d555d31fc::t_30045a1d79993b 39
+CubeMaster/pkg/cubelet/actions.go
+  s_c4db8d555d31fc::t_30045a1d79993b 43,45
+CubeMaster/pkg/service/sandbox/sandbox_remove.go
+  s_c4db8d555d31fc::t_30045a1d79993b 13-14,19,45-57
+CubeMaster/pkg/base/telemetry/telemetry_test.go
+  s_c4db8d555d31fc::t_1083bd5b4431bc 189-219
+CubeMaster/pkg/base/telemetry/middleware.go
+  s_c4db8d555d31fc::t_30045a1d79993b 18,30
+Cubelet/services/cubebox/destroy_lifecycle_test.go
+  s_c4db8d555d31fc::t_1083bd5b4431bc 16-17,22,120-141
+  s_c4db8d555d31fc::t_2117245d9bb1ae 142-143
+Cubelet/services/cubebox/service.go
+  s_c4db8d555d31fc::t_30045a1d79993b 746-748,758
+CubeAPI/src/cubemaster/mod.rs
+  s_c4db8d555d31fc::t_2d127827037d1b 85-86,90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "354639e56205a3e303fb4566c7da905bb33304b1",
+  "prompts": {},
+  "sessions": {
+    "s_08e7a6959bd21a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b02a-141f-7133-aa63-a2072dd055eb",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
