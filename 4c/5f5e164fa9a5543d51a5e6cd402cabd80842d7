@@ -1,0 +1,25 @@
+cube-envd/Cargo.toml
+  s_c4db8d555d31fc::t_49aab8f4edbb2c 36
+cube-envd/src/telemetry.rs
+  s_c4db8d555d31fc::t_f09a6196a358d7 113,115-119,123,130
+docs/guide/tracing.md
+  s_c4db8d555d31fc::t_fd9837aecd5986 62-73
+docs/zh/guide/tracing.md
+  s_c4db8d555d31fc::t_f3f55a9a0eff0c 62-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "4c5f5e164fa9a5543d51a5e6cd402cabd80842d7",
+  "prompts": {},
+  "sessions": {
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
