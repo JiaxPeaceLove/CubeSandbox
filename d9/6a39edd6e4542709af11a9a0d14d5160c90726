@@ -1,0 +1,64 @@
+CubeShim/shim/src/sandbox/sb.rs
+  s_c4db8d555d31fc::t_957930db25afcf 45,170,213,381-384,386,433,855-856
+docs/zh/guide/tracing.md
+  s_c4db8d555d31fc::t_69b9c2284be26a 66
+  s_c4db8d555d31fc::t_7ccf55c1bb8151 41,64,68
+docs/guide/tracing.md
+  s_c4db8d555d31fc::t_7ccf55c1bb8151 41,64,68
+  s_c4db8d555d31fc::t_69b9c2284be26a 66
+agent/src/rpc.rs
+  s_c4db8d555d31fc::t_7ccf55c1bb8151 797-804,810,823,833,846,858,870,881,915,936,959,1015,1041,1082,1094,1121,1161,1189,1293,1320,1345,1543,1577,1593,1606,1646,1668,1688,1701,1714,1726,1772,1812
+CubeShim/shim/src/telemetry.rs
+  s_c4db8d555d31fc::t_957930db25afcf 90,93,174,179,194-207
+agent/src/tracer.rs
+  s_c4db8d555d31fc::t_69b9c2284be26a 11-15,23,28,30-33,35-36,38-51,53,55-57,59
+  s_c4db8d555d31fc::t_7ccf55c1bb8151 6,87-91,94-102,104-106,124-125,127-141,146-152
+  s_c4db8d555d31fc::t_957930db25afcf 110-111,113,116,142-145
+  s_c4db8d555d31fc::t_04bebf9818e13b 7-8,10,16-22,24-27,29,34,37,52,60-61,64-68,71-81,85-86,92-93,103,107-109
+  s_c4db8d555d31fc::t_aca71961d92292 112,114-115
+CubeShim/shim/src/guest_trace.rs
+  s_c4db8d555d31fc::t_1ed2c06fdbdc82 12-17,21-23,33,66-68,81,83,88,91,97-109,115,130,133-134,138,143,151-154,156,160-162,166-171,173-175,183-185,193-204
+  s_c4db8d555d31fc::t_957930db25afcf 9-11,18,35,51-55,84-87,110-114,120,122-123,135-137,139-142,144-150,176-182,186-192,222-230,232-244,246-247,249-262
+  s_c4db8d555d31fc::t_69b9c2284be26a 20,71-78,92-94,116,212-214,216-218
+  s_c4db8d555d31fc::t_a0d4375a16a9c0 5-7,24-29,32,34,36-37,39-48,57-63,95-96,117-119,121,124-129,131
+CubeShim/protoc/protos/agent.proto
+  s_c4db8d555d31fc::t_e0eef00cbe5b2d 22-23,636-650
+agent/Cargo.lock
+  s_c4db8d555d31fc::t_5ae110d63a5d18 1571-1572,1583
+agent/libs/protocols/protos/agent.proto
+  s_c4db8d555d31fc::t_843de1b2fb6627 22-23,648-662
+agent/src/main.rs
+  s_c4db8d555d31fc::t_acca3324e74cb2 40
+agent/vsock-exporter/Cargo.toml
+  s_c4db8d555d31fc::t_ec2b8b13b7471f 20
+agent/vsock-exporter/src/lib.rs
+  s_c4db8d555d31fc::t_c875ced4757c79 114-120,122-123,125-132,134-135,137
+CubeShim/protoc/src/agent.rs
+  s_08e7a6959bd21a::t_643ba40fe6d8f1 15981-16509,16766-16775
+CubeShim/protoc/src/agent_ttrpc.rs
+  s_08e7a6959bd21a::t_467b0db276c7f4 37-41,233-243,664-666,786-788
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "d96a39edd6e4542709af11a9a0d14d5160c90726",
+  "prompts": {},
+  "sessions": {
+    "s_08e7a6959bd21a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b02a-141f-7133-aa63-a2072dd055eb",
+        "model": "unknown"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    },
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
