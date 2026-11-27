@@ -14,6 +14,10 @@ CubeProxy/nginx.conf
   s_c4db8d555d31fc::t_5abb74f5093640 28-35
 CubeProxy/tests/trace_test.lua
   s_c4db8d555d31fc::t_027b1f5a0f29d8 1-577
+deploy/kubernetes/chart/templates/proxy.yaml
+  s_c4db8d555d31fc::t_aebd8519ac4c66 254-268
+deploy/kubernetes/chart/values.yaml
+  s_c4db8d555d31fc::t_aebd8519ac4c66 1145-1153
 ---
 {
   "schema_version": "authorship/3.0.0",
