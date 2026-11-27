@@ -1,0 +1,33 @@
+CubeProxy/Makefile
+  s_c4db8d555d31fc::t_c5de0cf55bfa45 55,67
+CubeProxy/lua/init_worker_phase.lua
+  s_c4db8d555d31fc::t_172c7364bfbbfc 31-39
+CubeProxy/lua/log_phase.lua
+  s_c4db8d555d31fc::t_9f150b204c7ffe 9,29,31
+CubeProxy/lua/path_rewrite_phase.lua
+  s_c4db8d555d31fc::t_96666dca342e89 13-15,36
+CubeProxy/lua/rewrite_phase.lua
+  s_c4db8d555d31fc::t_7a42c358d18794 7-9,61
+CubeProxy/lua/trace.lua
+  s_c4db8d555d31fc::t_987b211aececa3 1-583
+CubeProxy/nginx.conf
+  s_c4db8d555d31fc::t_5abb74f5093640 28-35
+CubeProxy/tests/trace_test.lua
+  s_c4db8d555d31fc::t_027b1f5a0f29d8 1-577
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "acf8ced1e379d8028a1844c1b72503281fae0785",
+  "prompts": {},
+  "sessions": {
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
