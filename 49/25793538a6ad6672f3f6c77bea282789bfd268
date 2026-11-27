@@ -1,0 +1,40 @@
+cube-lifecycle-manager/internal/sweeper/sweeper.go
+  s_c4db8d555d31fc::t_aefc4cec2edac3 16-17,24,198-211
+deploy/kubernetes/chart/templates/lifecycle-manager.yaml
+  s_c4db8d555d31fc::t_0dae1a9a8a368f 110-112
+cube-lifecycle-manager/internal/sweeper/timeout_trace_test.go
+  s_c4db8d555d31fc::t_60148953804183 1-116
+cube-lifecycle-manager/internal/telemetry/telemetry.go
+  s_c4db8d555d31fc::t_aefc4cec2edac3 1-67
+cube-lifecycle-manager/internal/cubemasterclient/client.go
+  s_c4db8d555d31fc::t_aefc4cec2edac3 22-26,161,166-178,196,216-218
+deploy/kubernetes/chart/values.yaml
+  s_c4db8d555d31fc::t_0dae1a9a8a368f 639
+cube-lifecycle-manager/cmd/cube-lifecycle-manager/main.go
+  s_c4db8d555d31fc::t_aefc4cec2edac3 35,90-101
+  s_c4db8d555d31fc::t_56080c776a0010 102
+cube-lifecycle-manager/go.mod
+  s_c4db8d555d31fc::t_c9a2a4bc390e53 10-14,19,22-24,27-30,33-39
+cube-lifecycle-manager/go.sum
+  s_c4db8d555d31fc::t_3fd04f4c8342c1 7-8,15-23,26-27,30-33,38-41,46-63,74-89,91-92
+docs/guide/tracing.md
+  s_c4db8d555d31fc::t_c875bc98bd03ab 62-67
+docs/zh/guide/tracing.md
+  s_c4db8d555d31fc::t_68f6b3818e29f9 62-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "4925793538a6ad6672f3f6c77bea282789bfd268",
+  "prompts": {},
+  "sessions": {
+    "s_c4db8d555d31fc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aff9-752c-7573-a32f-24c1d94af8b1",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "jiax2 <jiax2@chinatelecom.cn>"
+    }
+  }
+}
